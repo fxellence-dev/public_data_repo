@@ -1,0 +1,4017 @@
+[
+    {
+        "id": 1,
+        "sell": "AED",
+        "buy": "AUD"
+    },
+    {
+        "id": 2,
+        "sell": "AED",
+        "buy": "BHD"
+    },
+    {
+        "id": 3,
+        "sell": "AED",
+        "buy": "CAD"
+    },
+    {
+        "id": 4,
+        "sell": "AED",
+        "buy": "CHF"
+    },
+    {
+        "id": 5,
+        "sell": "AED",
+        "buy": "CNH"
+    },
+    {
+        "id": 6,
+        "sell": "AED",
+        "buy": "CZK"
+    },
+    {
+        "id": 7,
+        "sell": "AED",
+        "buy": "DKK"
+    },
+    {
+        "id": 8,
+        "sell": "AED",
+        "buy": "EUR"
+    },
+    {
+        "id": 9,
+        "sell": "AED",
+        "buy": "GBP"
+    },
+    {
+        "id": 10,
+        "sell": "AED",
+        "buy": "HKD"
+    },
+    {
+        "id": 11,
+        "sell": "AED",
+        "buy": "HUF"
+    },
+    {
+        "id": 12,
+        "sell": "AED",
+        "buy": "ILS"
+    },
+    {
+        "id": 13,
+        "sell": "AED",
+        "buy": "JPY"
+    },
+    {
+        "id": 14,
+        "sell": "AED",
+        "buy": "KWD"
+    },
+    {
+        "id": 15,
+        "sell": "AED",
+        "buy": "NOK"
+    },
+    {
+        "id": 16,
+        "sell": "AED",
+        "buy": "NZD"
+    },
+    {
+        "id": 17,
+        "sell": "AED",
+        "buy": "OMR"
+    },
+    {
+        "id": 18,
+        "sell": "AED",
+        "buy": "PLN"
+    },
+    {
+        "id": 19,
+        "sell": "AED",
+        "buy": "QAR"
+    },
+    {
+        "id": 20,
+        "sell": "AED",
+        "buy": "RUB"
+    },
+    {
+        "id": 21,
+        "sell": "AED",
+        "buy": "SAR"
+    },
+    {
+        "id": 22,
+        "sell": "AED",
+        "buy": "SEK"
+    },
+    {
+        "id": 23,
+        "sell": "AED",
+        "buy": "SGD"
+    },
+    {
+        "id": 24,
+        "sell": "AED",
+        "buy": "USD"
+    },
+    {
+        "id": 25,
+        "sell": "AED",
+        "buy": "ZAR"
+    },
+    {
+        "id": 26,
+        "sell": "AUD",
+        "buy": "AED"
+    },
+    {
+        "id": 27,
+        "sell": "AUD",
+        "buy": "CAD"
+    },
+    {
+        "id": 28,
+        "sell": "AUD",
+        "buy": "CHF"
+    },
+    {
+        "id": 29,
+        "sell": "AUD",
+        "buy": "CNH"
+    },
+    {
+        "id": 30,
+        "sell": "AUD",
+        "buy": "CZK"
+    },
+    {
+        "id": 31,
+        "sell": "AUD",
+        "buy": "DKK"
+    },
+    {
+        "id": 32,
+        "sell": "AUD",
+        "buy": "EUR"
+    },
+    {
+        "id": 33,
+        "sell": "AUD",
+        "buy": "GBP"
+    },
+    {
+        "id": 34,
+        "sell": "AUD",
+        "buy": "HKD"
+    },
+    {
+        "id": 35,
+        "sell": "AUD",
+        "buy": "HUF"
+    },
+    {
+        "id": 36,
+        "sell": "AUD",
+        "buy": "IDR"
+    },
+    {
+        "id": 37,
+        "sell": "AUD",
+        "buy": "ILS"
+    },
+    {
+        "id": 38,
+        "sell": "AUD",
+        "buy": "INR"
+    },
+    {
+        "id": 39,
+        "sell": "AUD",
+        "buy": "JPY"
+    },
+    {
+        "id": 40,
+        "sell": "AUD",
+        "buy": "KWD"
+    },
+    {
+        "id": 41,
+        "sell": "AUD",
+        "buy": "MXN"
+    },
+    {
+        "id": 42,
+        "sell": "AUD",
+        "buy": "MYR"
+    },
+    {
+        "id": 43,
+        "sell": "AUD",
+        "buy": "NOK"
+    },
+    {
+        "id": 44,
+        "sell": "AUD",
+        "buy": "NZD"
+    },
+    {
+        "id": 45,
+        "sell": "AUD",
+        "buy": "OMR"
+    },
+    {
+        "id": 46,
+        "sell": "AUD",
+        "buy": "PHP"
+    },
+    {
+        "id": 47,
+        "sell": "AUD",
+        "buy": "PLN"
+    },
+    {
+        "id": 48,
+        "sell": "AUD",
+        "buy": "QAR"
+    },
+    {
+        "id": 49,
+        "sell": "AUD",
+        "buy": "RON"
+    },
+    {
+        "id": 50,
+        "sell": "AUD",
+        "buy": "SAR"
+    },
+    {
+        "id": 51,
+        "sell": "AUD",
+        "buy": "SEK"
+    },
+    {
+        "id": 52,
+        "sell": "AUD",
+        "buy": "SGD"
+    },
+    {
+        "id": 53,
+        "sell": "AUD",
+        "buy": "THB"
+    },
+    {
+        "id": 54,
+        "sell": "AUD",
+        "buy": "TRY"
+    },
+    {
+        "id": 55,
+        "sell": "AUD",
+        "buy": "USD"
+    },
+    {
+        "id": 56,
+        "sell": "AUD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 57,
+        "sell": "BHD",
+        "buy": "AED"
+    },
+    {
+        "id": 58,
+        "sell": "BHD",
+        "buy": "CAD"
+    },
+    {
+        "id": 59,
+        "sell": "BHD",
+        "buy": "CHF"
+    },
+    {
+        "id": 60,
+        "sell": "BHD",
+        "buy": "EUR"
+    },
+    {
+        "id": 61,
+        "sell": "BHD",
+        "buy": "GBP"
+    },
+    {
+        "id": 62,
+        "sell": "BHD",
+        "buy": "HKD"
+    },
+    {
+        "id": 63,
+        "sell": "BHD",
+        "buy": "JPY"
+    },
+    {
+        "id": 64,
+        "sell": "BHD",
+        "buy": "KWD"
+    },
+    {
+        "id": 65,
+        "sell": "BHD",
+        "buy": "QAR"
+    },
+    {
+        "id": 66,
+        "sell": "BHD",
+        "buy": "RUB"
+    },
+    {
+        "id": 67,
+        "sell": "BHD",
+        "buy": "SAR"
+    },
+    {
+        "id": 68,
+        "sell": "BHD",
+        "buy": "SGD"
+    },
+    {
+        "id": 69,
+        "sell": "BHD",
+        "buy": "USD"
+    },
+    {
+        "id": 70,
+        "sell": "CAD",
+        "buy": "AED"
+    },
+    {
+        "id": 71,
+        "sell": "CAD",
+        "buy": "AUD"
+    },
+    {
+        "id": 72,
+        "sell": "CAD",
+        "buy": "BHD"
+    },
+    {
+        "id": 73,
+        "sell": "CAD",
+        "buy": "CHF"
+    },
+    {
+        "id": 74,
+        "sell": "CAD",
+        "buy": "CNH"
+    },
+    {
+        "id": 75,
+        "sell": "CAD",
+        "buy": "CZK"
+    },
+    {
+        "id": 76,
+        "sell": "CAD",
+        "buy": "DKK"
+    },
+    {
+        "id": 77,
+        "sell": "CAD",
+        "buy": "EUR"
+    },
+    {
+        "id": 78,
+        "sell": "CAD",
+        "buy": "GBP"
+    },
+    {
+        "id": 79,
+        "sell": "CAD",
+        "buy": "HKD"
+    },
+    {
+        "id": 80,
+        "sell": "CAD",
+        "buy": "HUF"
+    },
+    {
+        "id": 81,
+        "sell": "CAD",
+        "buy": "IDR"
+    },
+    {
+        "id": 82,
+        "sell": "CAD",
+        "buy": "ILS"
+    },
+    {
+        "id": 83,
+        "sell": "CAD",
+        "buy": "INR"
+    },
+    {
+        "id": 84,
+        "sell": "CAD",
+        "buy": "JPY"
+    },
+    {
+        "id": 85,
+        "sell": "CAD",
+        "buy": "KWD"
+    },
+    {
+        "id": 86,
+        "sell": "CAD",
+        "buy": "MXN"
+    },
+    {
+        "id": 87,
+        "sell": "CAD",
+        "buy": "MYR"
+    },
+    {
+        "id": 88,
+        "sell": "CAD",
+        "buy": "NOK"
+    },
+    {
+        "id": 89,
+        "sell": "CAD",
+        "buy": "NZD"
+    },
+    {
+        "id": 90,
+        "sell": "CAD",
+        "buy": "PHP"
+    },
+    {
+        "id": 91,
+        "sell": "CAD",
+        "buy": "PLN"
+    },
+    {
+        "id": 92,
+        "sell": "CAD",
+        "buy": "QAR"
+    },
+    {
+        "id": 93,
+        "sell": "CAD",
+        "buy": "RON"
+    },
+    {
+        "id": 94,
+        "sell": "CAD",
+        "buy": "RUB"
+    },
+    {
+        "id": 95,
+        "sell": "CAD",
+        "buy": "SAR"
+    },
+    {
+        "id": 96,
+        "sell": "CAD",
+        "buy": "SEK"
+    },
+    {
+        "id": 97,
+        "sell": "CAD",
+        "buy": "SGD"
+    },
+    {
+        "id": 98,
+        "sell": "CAD",
+        "buy": "THB"
+    },
+    {
+        "id": 99,
+        "sell": "CAD",
+        "buy": "TRY"
+    },
+    {
+        "id": 100,
+        "sell": "CAD",
+        "buy": "UGX"
+    },
+    {
+        "id": 101,
+        "sell": "CAD",
+        "buy": "USD"
+    },
+    {
+        "id": 102,
+        "sell": "CAD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 103,
+        "sell": "CHF",
+        "buy": "AED"
+    },
+    {
+        "id": 104,
+        "sell": "CHF",
+        "buy": "AUD"
+    },
+    {
+        "id": 105,
+        "sell": "CHF",
+        "buy": "BHD"
+    },
+    {
+        "id": 106,
+        "sell": "CHF",
+        "buy": "CAD"
+    },
+    {
+        "id": 107,
+        "sell": "CHF",
+        "buy": "CNH"
+    },
+    {
+        "id": 108,
+        "sell": "CHF",
+        "buy": "CZK"
+    },
+    {
+        "id": 109,
+        "sell": "CHF",
+        "buy": "DKK"
+    },
+    {
+        "id": 110,
+        "sell": "CHF",
+        "buy": "EUR"
+    },
+    {
+        "id": 111,
+        "sell": "CHF",
+        "buy": "GBP"
+    },
+    {
+        "id": 112,
+        "sell": "CHF",
+        "buy": "HKD"
+    },
+    {
+        "id": 113,
+        "sell": "CHF",
+        "buy": "HUF"
+    },
+    {
+        "id": 114,
+        "sell": "CHF",
+        "buy": "ILS"
+    },
+    {
+        "id": 115,
+        "sell": "CHF",
+        "buy": "JPY"
+    },
+    {
+        "id": 116,
+        "sell": "CHF",
+        "buy": "MXN"
+    },
+    {
+        "id": 117,
+        "sell": "CHF",
+        "buy": "NOK"
+    },
+    {
+        "id": 118,
+        "sell": "CHF",
+        "buy": "NZD"
+    },
+    {
+        "id": 119,
+        "sell": "CHF",
+        "buy": "OMR"
+    },
+    {
+        "id": 120,
+        "sell": "CHF",
+        "buy": "PLN"
+    },
+    {
+        "id": 121,
+        "sell": "CHF",
+        "buy": "QAR"
+    },
+    {
+        "id": 122,
+        "sell": "CHF",
+        "buy": "RON"
+    },
+    {
+        "id": 123,
+        "sell": "CHF",
+        "buy": "RUB"
+    },
+    {
+        "id": 124,
+        "sell": "CHF",
+        "buy": "SAR"
+    },
+    {
+        "id": 125,
+        "sell": "CHF",
+        "buy": "SEK"
+    },
+    {
+        "id": 126,
+        "sell": "CHF",
+        "buy": "SGD"
+    },
+    {
+        "id": 127,
+        "sell": "CHF",
+        "buy": "THB"
+    },
+    {
+        "id": 128,
+        "sell": "CHF",
+        "buy": "TRY"
+    },
+    {
+        "id": 129,
+        "sell": "CHF",
+        "buy": "UGX"
+    },
+    {
+        "id": 130,
+        "sell": "CHF",
+        "buy": "USD"
+    },
+    {
+        "id": 131,
+        "sell": "CHF",
+        "buy": "ZAR"
+    },
+    {
+        "id": 132,
+        "sell": "CNH",
+        "buy": "AED"
+    },
+    {
+        "id": 133,
+        "sell": "CNH",
+        "buy": "AUD"
+    },
+    {
+        "id": 134,
+        "sell": "CNH",
+        "buy": "CAD"
+    },
+    {
+        "id": 135,
+        "sell": "CNH",
+        "buy": "CHF"
+    },
+    {
+        "id": 136,
+        "sell": "CNH",
+        "buy": "CZK"
+    },
+    {
+        "id": 137,
+        "sell": "CNH",
+        "buy": "DKK"
+    },
+    {
+        "id": 138,
+        "sell": "CNH",
+        "buy": "EUR"
+    },
+    {
+        "id": 139,
+        "sell": "CNH",
+        "buy": "GBP"
+    },
+    {
+        "id": 140,
+        "sell": "CNH",
+        "buy": "HKD"
+    },
+    {
+        "id": 141,
+        "sell": "CNH",
+        "buy": "HUF"
+    },
+    {
+        "id": 142,
+        "sell": "CNH",
+        "buy": "ILS"
+    },
+    {
+        "id": 143,
+        "sell": "CNH",
+        "buy": "JPY"
+    },
+    {
+        "id": 144,
+        "sell": "CNH",
+        "buy": "MXN"
+    },
+    {
+        "id": 145,
+        "sell": "CNH",
+        "buy": "NOK"
+    },
+    {
+        "id": 146,
+        "sell": "CNH",
+        "buy": "NZD"
+    },
+    {
+        "id": 147,
+        "sell": "CNH",
+        "buy": "PLN"
+    },
+    {
+        "id": 148,
+        "sell": "CNH",
+        "buy": "RON"
+    },
+    {
+        "id": 149,
+        "sell": "CNH",
+        "buy": "RUB"
+    },
+    {
+        "id": 150,
+        "sell": "CNH",
+        "buy": "SEK"
+    },
+    {
+        "id": 151,
+        "sell": "CNH",
+        "buy": "SGD"
+    },
+    {
+        "id": 152,
+        "sell": "CNH",
+        "buy": "THB"
+    },
+    {
+        "id": 153,
+        "sell": "CNH",
+        "buy": "TRY"
+    },
+    {
+        "id": 154,
+        "sell": "CNH",
+        "buy": "UGX"
+    },
+    {
+        "id": 155,
+        "sell": "CNH",
+        "buy": "USD"
+    },
+    {
+        "id": 156,
+        "sell": "CNH",
+        "buy": "ZAR"
+    },
+    {
+        "id": 157,
+        "sell": "CZK",
+        "buy": "AED"
+    },
+    {
+        "id": 158,
+        "sell": "CZK",
+        "buy": "AUD"
+    },
+    {
+        "id": 159,
+        "sell": "CZK",
+        "buy": "CAD"
+    },
+    {
+        "id": 160,
+        "sell": "CZK",
+        "buy": "CHF"
+    },
+    {
+        "id": 161,
+        "sell": "CZK",
+        "buy": "CNH"
+    },
+    {
+        "id": 162,
+        "sell": "CZK",
+        "buy": "DKK"
+    },
+    {
+        "id": 163,
+        "sell": "CZK",
+        "buy": "EUR"
+    },
+    {
+        "id": 164,
+        "sell": "CZK",
+        "buy": "GBP"
+    },
+    {
+        "id": 165,
+        "sell": "CZK",
+        "buy": "HKD"
+    },
+    {
+        "id": 166,
+        "sell": "CZK",
+        "buy": "HUF"
+    },
+    {
+        "id": 167,
+        "sell": "CZK",
+        "buy": "ILS"
+    },
+    {
+        "id": 168,
+        "sell": "CZK",
+        "buy": "JPY"
+    },
+    {
+        "id": 169,
+        "sell": "CZK",
+        "buy": "MXN"
+    },
+    {
+        "id": 170,
+        "sell": "CZK",
+        "buy": "NOK"
+    },
+    {
+        "id": 171,
+        "sell": "CZK",
+        "buy": "NZD"
+    },
+    {
+        "id": 172,
+        "sell": "CZK",
+        "buy": "PLN"
+    },
+    {
+        "id": 173,
+        "sell": "CZK",
+        "buy": "QAR"
+    },
+    {
+        "id": 174,
+        "sell": "CZK",
+        "buy": "RON"
+    },
+    {
+        "id": 175,
+        "sell": "CZK",
+        "buy": "RUB"
+    },
+    {
+        "id": 176,
+        "sell": "CZK",
+        "buy": "SAR"
+    },
+    {
+        "id": 177,
+        "sell": "CZK",
+        "buy": "SEK"
+    },
+    {
+        "id": 178,
+        "sell": "CZK",
+        "buy": "SGD"
+    },
+    {
+        "id": 179,
+        "sell": "CZK",
+        "buy": "THB"
+    },
+    {
+        "id": 180,
+        "sell": "CZK",
+        "buy": "TRY"
+    },
+    {
+        "id": 181,
+        "sell": "CZK",
+        "buy": "USD"
+    },
+    {
+        "id": 182,
+        "sell": "CZK",
+        "buy": "ZAR"
+    },
+    {
+        "id": 183,
+        "sell": "DKK",
+        "buy": "AED"
+    },
+    {
+        "id": 184,
+        "sell": "DKK",
+        "buy": "AUD"
+    },
+    {
+        "id": 185,
+        "sell": "DKK",
+        "buy": "CAD"
+    },
+    {
+        "id": 186,
+        "sell": "DKK",
+        "buy": "CHF"
+    },
+    {
+        "id": 187,
+        "sell": "DKK",
+        "buy": "CNH"
+    },
+    {
+        "id": 188,
+        "sell": "DKK",
+        "buy": "CZK"
+    },
+    {
+        "id": 189,
+        "sell": "DKK",
+        "buy": "EUR"
+    },
+    {
+        "id": 190,
+        "sell": "DKK",
+        "buy": "GBP"
+    },
+    {
+        "id": 191,
+        "sell": "DKK",
+        "buy": "HKD"
+    },
+    {
+        "id": 192,
+        "sell": "DKK",
+        "buy": "HUF"
+    },
+    {
+        "id": 193,
+        "sell": "DKK",
+        "buy": "ILS"
+    },
+    {
+        "id": 194,
+        "sell": "DKK",
+        "buy": "JPY"
+    },
+    {
+        "id": 195,
+        "sell": "DKK",
+        "buy": "MXN"
+    },
+    {
+        "id": 196,
+        "sell": "DKK",
+        "buy": "NOK"
+    },
+    {
+        "id": 197,
+        "sell": "DKK",
+        "buy": "NZD"
+    },
+    {
+        "id": 198,
+        "sell": "DKK",
+        "buy": "PLN"
+    },
+    {
+        "id": 199,
+        "sell": "DKK",
+        "buy": "RON"
+    },
+    {
+        "id": 200,
+        "sell": "DKK",
+        "buy": "RUB"
+    },
+    {
+        "id": 201,
+        "sell": "DKK",
+        "buy": "SAR"
+    },
+    {
+        "id": 202,
+        "sell": "DKK",
+        "buy": "SEK"
+    },
+    {
+        "id": 203,
+        "sell": "DKK",
+        "buy": "SGD"
+    },
+    {
+        "id": 204,
+        "sell": "DKK",
+        "buy": "THB"
+    },
+    {
+        "id": 205,
+        "sell": "DKK",
+        "buy": "TRY"
+    },
+    {
+        "id": 206,
+        "sell": "DKK",
+        "buy": "UGX"
+    },
+    {
+        "id": 207,
+        "sell": "DKK",
+        "buy": "USD"
+    },
+    {
+        "id": 208,
+        "sell": "DKK",
+        "buy": "ZAR"
+    },
+    {
+        "id": 209,
+        "sell": "EUR",
+        "buy": "AED"
+    },
+    {
+        "id": 210,
+        "sell": "EUR",
+        "buy": "AUD"
+    },
+    {
+        "id": 211,
+        "sell": "EUR",
+        "buy": "BHD"
+    },
+    {
+        "id": 212,
+        "sell": "EUR",
+        "buy": "CAD"
+    },
+    {
+        "id": 213,
+        "sell": "EUR",
+        "buy": "CHF"
+    },
+    {
+        "id": 214,
+        "sell": "EUR",
+        "buy": "CNH"
+    },
+    {
+        "id": 215,
+        "sell": "EUR",
+        "buy": "CZK"
+    },
+    {
+        "id": 216,
+        "sell": "EUR",
+        "buy": "DKK"
+    },
+    {
+        "id": 217,
+        "sell": "EUR",
+        "buy": "GBP"
+    },
+    {
+        "id": 218,
+        "sell": "EUR",
+        "buy": "HKD"
+    },
+    {
+        "id": 219,
+        "sell": "EUR",
+        "buy": "HUF"
+    },
+    {
+        "id": 220,
+        "sell": "EUR",
+        "buy": "IDR"
+    },
+    {
+        "id": 221,
+        "sell": "EUR",
+        "buy": "ILS"
+    },
+    {
+        "id": 222,
+        "sell": "EUR",
+        "buy": "INR"
+    },
+    {
+        "id": 223,
+        "sell": "EUR",
+        "buy": "JPY"
+    },
+    {
+        "id": 224,
+        "sell": "EUR",
+        "buy": "KES"
+    },
+    {
+        "id": 225,
+        "sell": "EUR",
+        "buy": "KWD"
+    },
+    {
+        "id": 226,
+        "sell": "EUR",
+        "buy": "MXN"
+    },
+    {
+        "id": 227,
+        "sell": "EUR",
+        "buy": "MYR"
+    },
+    {
+        "id": 228,
+        "sell": "EUR",
+        "buy": "NOK"
+    },
+    {
+        "id": 229,
+        "sell": "EUR",
+        "buy": "NZD"
+    },
+    {
+        "id": 230,
+        "sell": "EUR",
+        "buy": "OMR"
+    },
+    {
+        "id": 231,
+        "sell": "EUR",
+        "buy": "PHP"
+    },
+    {
+        "id": 232,
+        "sell": "EUR",
+        "buy": "PLN"
+    },
+    {
+        "id": 233,
+        "sell": "EUR",
+        "buy": "QAR"
+    },
+    {
+        "id": 234,
+        "sell": "EUR",
+        "buy": "RON"
+    },
+    {
+        "id": 235,
+        "sell": "EUR",
+        "buy": "RUB"
+    },
+    {
+        "id": 236,
+        "sell": "EUR",
+        "buy": "SAR"
+    },
+    {
+        "id": 237,
+        "sell": "EUR",
+        "buy": "SEK"
+    },
+    {
+        "id": 238,
+        "sell": "EUR",
+        "buy": "SGD"
+    },
+    {
+        "id": 239,
+        "sell": "EUR",
+        "buy": "THB"
+    },
+    {
+        "id": 240,
+        "sell": "EUR",
+        "buy": "TRY"
+    },
+    {
+        "id": 241,
+        "sell": "EUR",
+        "buy": "UGX"
+    },
+    {
+        "id": 242,
+        "sell": "EUR",
+        "buy": "USD"
+    },
+    {
+        "id": 243,
+        "sell": "EUR",
+        "buy": "ZAR"
+    },
+    {
+        "id": 244,
+        "sell": "GBP",
+        "buy": "AED"
+    },
+    {
+        "id": 245,
+        "sell": "GBP",
+        "buy": "AUD"
+    },
+    {
+        "id": 246,
+        "sell": "GBP",
+        "buy": "BHD"
+    },
+    {
+        "id": 247,
+        "sell": "GBP",
+        "buy": "CAD"
+    },
+    {
+        "id": 248,
+        "sell": "GBP",
+        "buy": "CHF"
+    },
+    {
+        "id": 249,
+        "sell": "GBP",
+        "buy": "CNH"
+    },
+    {
+        "id": 250,
+        "sell": "GBP",
+        "buy": "CZK"
+    },
+    {
+        "id": 251,
+        "sell": "GBP",
+        "buy": "DKK"
+    },
+    {
+        "id": 252,
+        "sell": "GBP",
+        "buy": "EUR"
+    },
+    {
+        "id": 253,
+        "sell": "GBP",
+        "buy": "HKD"
+    },
+    {
+        "id": 254,
+        "sell": "GBP",
+        "buy": "HUF"
+    },
+    {
+        "id": 255,
+        "sell": "GBP",
+        "buy": "IDR"
+    },
+    {
+        "id": 256,
+        "sell": "GBP",
+        "buy": "ILS"
+    },
+    {
+        "id": 257,
+        "sell": "GBP",
+        "buy": "INR"
+    },
+    {
+        "id": 258,
+        "sell": "GBP",
+        "buy": "JPY"
+    },
+    {
+        "id": 259,
+        "sell": "GBP",
+        "buy": "KES"
+    },
+    {
+        "id": 260,
+        "sell": "GBP",
+        "buy": "KWD"
+    },
+    {
+        "id": 261,
+        "sell": "GBP",
+        "buy": "MXN"
+    },
+    {
+        "id": 262,
+        "sell": "GBP",
+        "buy": "MYR"
+    },
+    {
+        "id": 263,
+        "sell": "GBP",
+        "buy": "NOK"
+    },
+    {
+        "id": 264,
+        "sell": "GBP",
+        "buy": "NZD"
+    },
+    {
+        "id": 265,
+        "sell": "GBP",
+        "buy": "OMR"
+    },
+    {
+        "id": 266,
+        "sell": "GBP",
+        "buy": "PHP"
+    },
+    {
+        "id": 267,
+        "sell": "GBP",
+        "buy": "PLN"
+    },
+    {
+        "id": 268,
+        "sell": "GBP",
+        "buy": "QAR"
+    },
+    {
+        "id": 269,
+        "sell": "GBP",
+        "buy": "RON"
+    },
+    {
+        "id": 270,
+        "sell": "GBP",
+        "buy": "RUB"
+    },
+    {
+        "id": 271,
+        "sell": "GBP",
+        "buy": "SAR"
+    },
+    {
+        "id": 272,
+        "sell": "GBP",
+        "buy": "SEK"
+    },
+    {
+        "id": 273,
+        "sell": "GBP",
+        "buy": "SGD"
+    },
+    {
+        "id": 274,
+        "sell": "GBP",
+        "buy": "THB"
+    },
+    {
+        "id": 275,
+        "sell": "GBP",
+        "buy": "TRY"
+    },
+    {
+        "id": 276,
+        "sell": "GBP",
+        "buy": "UGX"
+    },
+    {
+        "id": 277,
+        "sell": "GBP",
+        "buy": "USD"
+    },
+    {
+        "id": 278,
+        "sell": "GBP",
+        "buy": "ZAR"
+    },
+    {
+        "id": 279,
+        "sell": "HKD",
+        "buy": "AED"
+    },
+    {
+        "id": 280,
+        "sell": "HKD",
+        "buy": "AUD"
+    },
+    {
+        "id": 281,
+        "sell": "HKD",
+        "buy": "BHD"
+    },
+    {
+        "id": 282,
+        "sell": "HKD",
+        "buy": "CAD"
+    },
+    {
+        "id": 283,
+        "sell": "HKD",
+        "buy": "CHF"
+    },
+    {
+        "id": 284,
+        "sell": "HKD",
+        "buy": "CNH"
+    },
+    {
+        "id": 285,
+        "sell": "HKD",
+        "buy": "CZK"
+    },
+    {
+        "id": 286,
+        "sell": "HKD",
+        "buy": "DKK"
+    },
+    {
+        "id": 287,
+        "sell": "HKD",
+        "buy": "EUR"
+    },
+    {
+        "id": 288,
+        "sell": "HKD",
+        "buy": "GBP"
+    },
+    {
+        "id": 289,
+        "sell": "HKD",
+        "buy": "HUF"
+    },
+    {
+        "id": 290,
+        "sell": "HKD",
+        "buy": "ILS"
+    },
+    {
+        "id": 291,
+        "sell": "HKD",
+        "buy": "JPY"
+    },
+    {
+        "id": 292,
+        "sell": "HKD",
+        "buy": "MXN"
+    },
+    {
+        "id": 293,
+        "sell": "HKD",
+        "buy": "NOK"
+    },
+    {
+        "id": 294,
+        "sell": "HKD",
+        "buy": "NZD"
+    },
+    {
+        "id": 295,
+        "sell": "HKD",
+        "buy": "OMR"
+    },
+    {
+        "id": 296,
+        "sell": "HKD",
+        "buy": "PLN"
+    },
+    {
+        "id": 297,
+        "sell": "HKD",
+        "buy": "RON"
+    },
+    {
+        "id": 298,
+        "sell": "HKD",
+        "buy": "RUB"
+    },
+    {
+        "id": 299,
+        "sell": "HKD",
+        "buy": "SAR"
+    },
+    {
+        "id": 300,
+        "sell": "HKD",
+        "buy": "SEK"
+    },
+    {
+        "id": 301,
+        "sell": "HKD",
+        "buy": "SGD"
+    },
+    {
+        "id": 302,
+        "sell": "HKD",
+        "buy": "THB"
+    },
+    {
+        "id": 303,
+        "sell": "HKD",
+        "buy": "TRY"
+    },
+    {
+        "id": 304,
+        "sell": "HKD",
+        "buy": "USD"
+    },
+    {
+        "id": 305,
+        "sell": "HKD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 306,
+        "sell": "HUF",
+        "buy": "AED"
+    },
+    {
+        "id": 307,
+        "sell": "HUF",
+        "buy": "AUD"
+    },
+    {
+        "id": 308,
+        "sell": "HUF",
+        "buy": "CAD"
+    },
+    {
+        "id": 309,
+        "sell": "HUF",
+        "buy": "CHF"
+    },
+    {
+        "id": 310,
+        "sell": "HUF",
+        "buy": "CNH"
+    },
+    {
+        "id": 311,
+        "sell": "HUF",
+        "buy": "CZK"
+    },
+    {
+        "id": 312,
+        "sell": "HUF",
+        "buy": "DKK"
+    },
+    {
+        "id": 313,
+        "sell": "HUF",
+        "buy": "EUR"
+    },
+    {
+        "id": 314,
+        "sell": "HUF",
+        "buy": "GBP"
+    },
+    {
+        "id": 315,
+        "sell": "HUF",
+        "buy": "HKD"
+    },
+    {
+        "id": 316,
+        "sell": "HUF",
+        "buy": "ILS"
+    },
+    {
+        "id": 317,
+        "sell": "HUF",
+        "buy": "JPY"
+    },
+    {
+        "id": 318,
+        "sell": "HUF",
+        "buy": "MXN"
+    },
+    {
+        "id": 319,
+        "sell": "HUF",
+        "buy": "NOK"
+    },
+    {
+        "id": 320,
+        "sell": "HUF",
+        "buy": "NZD"
+    },
+    {
+        "id": 321,
+        "sell": "HUF",
+        "buy": "PLN"
+    },
+    {
+        "id": 322,
+        "sell": "HUF",
+        "buy": "RON"
+    },
+    {
+        "id": 323,
+        "sell": "HUF",
+        "buy": "RUB"
+    },
+    {
+        "id": 324,
+        "sell": "HUF",
+        "buy": "SAR"
+    },
+    {
+        "id": 325,
+        "sell": "HUF",
+        "buy": "SEK"
+    },
+    {
+        "id": 326,
+        "sell": "HUF",
+        "buy": "SGD"
+    },
+    {
+        "id": 327,
+        "sell": "HUF",
+        "buy": "THB"
+    },
+    {
+        "id": 328,
+        "sell": "HUF",
+        "buy": "TRY"
+    },
+    {
+        "id": 329,
+        "sell": "HUF",
+        "buy": "USD"
+    },
+    {
+        "id": 330,
+        "sell": "HUF",
+        "buy": "ZAR"
+    },
+    {
+        "id": 331,
+        "sell": "IDR",
+        "buy": "AUD"
+    },
+    {
+        "id": 332,
+        "sell": "IDR",
+        "buy": "CAD"
+    },
+    {
+        "id": 333,
+        "sell": "IDR",
+        "buy": "EUR"
+    },
+    {
+        "id": 334,
+        "sell": "IDR",
+        "buy": "GBP"
+    },
+    {
+        "id": 335,
+        "sell": "IDR",
+        "buy": "USD"
+    },
+    {
+        "id": 336,
+        "sell": "ILS",
+        "buy": "AED"
+    },
+    {
+        "id": 337,
+        "sell": "ILS",
+        "buy": "AUD"
+    },
+    {
+        "id": 338,
+        "sell": "ILS",
+        "buy": "CAD"
+    },
+    {
+        "id": 339,
+        "sell": "ILS",
+        "buy": "CHF"
+    },
+    {
+        "id": 340,
+        "sell": "ILS",
+        "buy": "CNH"
+    },
+    {
+        "id": 341,
+        "sell": "ILS",
+        "buy": "CZK"
+    },
+    {
+        "id": 342,
+        "sell": "ILS",
+        "buy": "DKK"
+    },
+    {
+        "id": 343,
+        "sell": "ILS",
+        "buy": "EUR"
+    },
+    {
+        "id": 344,
+        "sell": "ILS",
+        "buy": "GBP"
+    },
+    {
+        "id": 345,
+        "sell": "ILS",
+        "buy": "HKD"
+    },
+    {
+        "id": 346,
+        "sell": "ILS",
+        "buy": "HUF"
+    },
+    {
+        "id": 347,
+        "sell": "ILS",
+        "buy": "JPY"
+    },
+    {
+        "id": 348,
+        "sell": "ILS",
+        "buy": "MXN"
+    },
+    {
+        "id": 349,
+        "sell": "ILS",
+        "buy": "NOK"
+    },
+    {
+        "id": 350,
+        "sell": "ILS",
+        "buy": "NZD"
+    },
+    {
+        "id": 351,
+        "sell": "ILS",
+        "buy": "PLN"
+    },
+    {
+        "id": 352,
+        "sell": "ILS",
+        "buy": "RON"
+    },
+    {
+        "id": 353,
+        "sell": "ILS",
+        "buy": "RUB"
+    },
+    {
+        "id": 354,
+        "sell": "ILS",
+        "buy": "SEK"
+    },
+    {
+        "id": 355,
+        "sell": "ILS",
+        "buy": "SGD"
+    },
+    {
+        "id": 356,
+        "sell": "ILS",
+        "buy": "THB"
+    },
+    {
+        "id": 357,
+        "sell": "ILS",
+        "buy": "TRY"
+    },
+    {
+        "id": 358,
+        "sell": "ILS",
+        "buy": "USD"
+    },
+    {
+        "id": 359,
+        "sell": "ILS",
+        "buy": "ZAR"
+    },
+    {
+        "id": 360,
+        "sell": "INR",
+        "buy": "AUD"
+    },
+    {
+        "id": 361,
+        "sell": "INR",
+        "buy": "CAD"
+    },
+    {
+        "id": 362,
+        "sell": "INR",
+        "buy": "EUR"
+    },
+    {
+        "id": 363,
+        "sell": "INR",
+        "buy": "GBP"
+    },
+    {
+        "id": 364,
+        "sell": "INR",
+        "buy": "USD"
+    },
+    {
+        "id": 365,
+        "sell": "JPY",
+        "buy": "AED"
+    },
+    {
+        "id": 366,
+        "sell": "JPY",
+        "buy": "AUD"
+    },
+    {
+        "id": 367,
+        "sell": "JPY",
+        "buy": "BHD"
+    },
+    {
+        "id": 368,
+        "sell": "JPY",
+        "buy": "CAD"
+    },
+    {
+        "id": 369,
+        "sell": "JPY",
+        "buy": "CHF"
+    },
+    {
+        "id": 370,
+        "sell": "JPY",
+        "buy": "CNH"
+    },
+    {
+        "id": 371,
+        "sell": "JPY",
+        "buy": "CZK"
+    },
+    {
+        "id": 372,
+        "sell": "JPY",
+        "buy": "DKK"
+    },
+    {
+        "id": 373,
+        "sell": "JPY",
+        "buy": "EUR"
+    },
+    {
+        "id": 374,
+        "sell": "JPY",
+        "buy": "GBP"
+    },
+    {
+        "id": 375,
+        "sell": "JPY",
+        "buy": "HKD"
+    },
+    {
+        "id": 376,
+        "sell": "JPY",
+        "buy": "HUF"
+    },
+    {
+        "id": 377,
+        "sell": "JPY",
+        "buy": "ILS"
+    },
+    {
+        "id": 378,
+        "sell": "JPY",
+        "buy": "KWD"
+    },
+    {
+        "id": 379,
+        "sell": "JPY",
+        "buy": "MXN"
+    },
+    {
+        "id": 380,
+        "sell": "JPY",
+        "buy": "NOK"
+    },
+    {
+        "id": 381,
+        "sell": "JPY",
+        "buy": "NZD"
+    },
+    {
+        "id": 382,
+        "sell": "JPY",
+        "buy": "OMR"
+    },
+    {
+        "id": 383,
+        "sell": "JPY",
+        "buy": "PLN"
+    },
+    {
+        "id": 384,
+        "sell": "JPY",
+        "buy": "QAR"
+    },
+    {
+        "id": 385,
+        "sell": "JPY",
+        "buy": "RON"
+    },
+    {
+        "id": 386,
+        "sell": "JPY",
+        "buy": "RUB"
+    },
+    {
+        "id": 387,
+        "sell": "JPY",
+        "buy": "SAR"
+    },
+    {
+        "id": 388,
+        "sell": "JPY",
+        "buy": "SEK"
+    },
+    {
+        "id": 389,
+        "sell": "JPY",
+        "buy": "SGD"
+    },
+    {
+        "id": 390,
+        "sell": "JPY",
+        "buy": "THB"
+    },
+    {
+        "id": 391,
+        "sell": "JPY",
+        "buy": "TRY"
+    },
+    {
+        "id": 392,
+        "sell": "JPY",
+        "buy": "UGX"
+    },
+    {
+        "id": 393,
+        "sell": "JPY",
+        "buy": "USD"
+    },
+    {
+        "id": 394,
+        "sell": "JPY",
+        "buy": "ZAR"
+    },
+    {
+        "id": 395,
+        "sell": "KES",
+        "buy": "EUR"
+    },
+    {
+        "id": 396,
+        "sell": "KES",
+        "buy": "GBP"
+    },
+    {
+        "id": 397,
+        "sell": "KES",
+        "buy": "USD"
+    },
+    {
+        "id": 398,
+        "sell": "KES",
+        "buy": "ZAR"
+    },
+    {
+        "id": 399,
+        "sell": "KWD",
+        "buy": "AED"
+    },
+    {
+        "id": 400,
+        "sell": "KWD",
+        "buy": "AUD"
+    },
+    {
+        "id": 401,
+        "sell": "KWD",
+        "buy": "BHD"
+    },
+    {
+        "id": 402,
+        "sell": "KWD",
+        "buy": "CAD"
+    },
+    {
+        "id": 403,
+        "sell": "KWD",
+        "buy": "EUR"
+    },
+    {
+        "id": 404,
+        "sell": "KWD",
+        "buy": "GBP"
+    },
+    {
+        "id": 405,
+        "sell": "KWD",
+        "buy": "JPY"
+    },
+    {
+        "id": 406,
+        "sell": "KWD",
+        "buy": "QAR"
+    },
+    {
+        "id": 407,
+        "sell": "KWD",
+        "buy": "RUB"
+    },
+    {
+        "id": 408,
+        "sell": "KWD",
+        "buy": "SAR"
+    },
+    {
+        "id": 409,
+        "sell": "KWD",
+        "buy": "USD"
+    },
+    {
+        "id": 410,
+        "sell": "KWD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 411,
+        "sell": "MXN",
+        "buy": "AUD"
+    },
+    {
+        "id": 412,
+        "sell": "MXN",
+        "buy": "CAD"
+    },
+    {
+        "id": 413,
+        "sell": "MXN",
+        "buy": "CHF"
+    },
+    {
+        "id": 414,
+        "sell": "MXN",
+        "buy": "CNH"
+    },
+    {
+        "id": 415,
+        "sell": "MXN",
+        "buy": "CZK"
+    },
+    {
+        "id": 416,
+        "sell": "MXN",
+        "buy": "DKK"
+    },
+    {
+        "id": 417,
+        "sell": "MXN",
+        "buy": "EUR"
+    },
+    {
+        "id": 418,
+        "sell": "MXN",
+        "buy": "GBP"
+    },
+    {
+        "id": 419,
+        "sell": "MXN",
+        "buy": "HKD"
+    },
+    {
+        "id": 420,
+        "sell": "MXN",
+        "buy": "HUF"
+    },
+    {
+        "id": 421,
+        "sell": "MXN",
+        "buy": "ILS"
+    },
+    {
+        "id": 422,
+        "sell": "MXN",
+        "buy": "JPY"
+    },
+    {
+        "id": 423,
+        "sell": "MXN",
+        "buy": "NOK"
+    },
+    {
+        "id": 424,
+        "sell": "MXN",
+        "buy": "NZD"
+    },
+    {
+        "id": 425,
+        "sell": "MXN",
+        "buy": "PLN"
+    },
+    {
+        "id": 426,
+        "sell": "MXN",
+        "buy": "QAR"
+    },
+    {
+        "id": 427,
+        "sell": "MXN",
+        "buy": "RON"
+    },
+    {
+        "id": 428,
+        "sell": "MXN",
+        "buy": "RUB"
+    },
+    {
+        "id": 429,
+        "sell": "MXN",
+        "buy": "SAR"
+    },
+    {
+        "id": 430,
+        "sell": "MXN",
+        "buy": "SEK"
+    },
+    {
+        "id": 431,
+        "sell": "MXN",
+        "buy": "SGD"
+    },
+    {
+        "id": 432,
+        "sell": "MXN",
+        "buy": "THB"
+    },
+    {
+        "id": 433,
+        "sell": "MXN",
+        "buy": "TRY"
+    },
+    {
+        "id": 434,
+        "sell": "MXN",
+        "buy": "USD"
+    },
+    {
+        "id": 435,
+        "sell": "MXN",
+        "buy": "ZAR"
+    },
+    {
+        "id": 436,
+        "sell": "MYR",
+        "buy": "AUD"
+    },
+    {
+        "id": 437,
+        "sell": "MYR",
+        "buy": "CAD"
+    },
+    {
+        "id": 438,
+        "sell": "MYR",
+        "buy": "EUR"
+    },
+    {
+        "id": 439,
+        "sell": "MYR",
+        "buy": "GBP"
+    },
+    {
+        "id": 440,
+        "sell": "MYR",
+        "buy": "USD"
+    },
+    {
+        "id": 441,
+        "sell": "NOK",
+        "buy": "AED"
+    },
+    {
+        "id": 442,
+        "sell": "NOK",
+        "buy": "AUD"
+    },
+    {
+        "id": 443,
+        "sell": "NOK",
+        "buy": "CAD"
+    },
+    {
+        "id": 444,
+        "sell": "NOK",
+        "buy": "CHF"
+    },
+    {
+        "id": 445,
+        "sell": "NOK",
+        "buy": "CNH"
+    },
+    {
+        "id": 446,
+        "sell": "NOK",
+        "buy": "CZK"
+    },
+    {
+        "id": 447,
+        "sell": "NOK",
+        "buy": "DKK"
+    },
+    {
+        "id": 448,
+        "sell": "NOK",
+        "buy": "EUR"
+    },
+    {
+        "id": 449,
+        "sell": "NOK",
+        "buy": "GBP"
+    },
+    {
+        "id": 450,
+        "sell": "NOK",
+        "buy": "HKD"
+    },
+    {
+        "id": 451,
+        "sell": "NOK",
+        "buy": "HUF"
+    },
+    {
+        "id": 452,
+        "sell": "NOK",
+        "buy": "ILS"
+    },
+    {
+        "id": 453,
+        "sell": "NOK",
+        "buy": "JPY"
+    },
+    {
+        "id": 454,
+        "sell": "NOK",
+        "buy": "MXN"
+    },
+    {
+        "id": 455,
+        "sell": "NOK",
+        "buy": "NZD"
+    },
+    {
+        "id": 456,
+        "sell": "NOK",
+        "buy": "PLN"
+    },
+    {
+        "id": 457,
+        "sell": "NOK",
+        "buy": "QAR"
+    },
+    {
+        "id": 458,
+        "sell": "NOK",
+        "buy": "RON"
+    },
+    {
+        "id": 459,
+        "sell": "NOK",
+        "buy": "RUB"
+    },
+    {
+        "id": 460,
+        "sell": "NOK",
+        "buy": "SAR"
+    },
+    {
+        "id": 461,
+        "sell": "NOK",
+        "buy": "SEK"
+    },
+    {
+        "id": 462,
+        "sell": "NOK",
+        "buy": "SGD"
+    },
+    {
+        "id": 463,
+        "sell": "NOK",
+        "buy": "THB"
+    },
+    {
+        "id": 464,
+        "sell": "NOK",
+        "buy": "TRY"
+    },
+    {
+        "id": 465,
+        "sell": "NOK",
+        "buy": "USD"
+    },
+    {
+        "id": 466,
+        "sell": "NOK",
+        "buy": "ZAR"
+    },
+    {
+        "id": 467,
+        "sell": "NZD",
+        "buy": "AED"
+    },
+    {
+        "id": 468,
+        "sell": "NZD",
+        "buy": "AUD"
+    },
+    {
+        "id": 469,
+        "sell": "NZD",
+        "buy": "CAD"
+    },
+    {
+        "id": 470,
+        "sell": "NZD",
+        "buy": "CHF"
+    },
+    {
+        "id": 471,
+        "sell": "NZD",
+        "buy": "CNH"
+    },
+    {
+        "id": 472,
+        "sell": "NZD",
+        "buy": "CZK"
+    },
+    {
+        "id": 473,
+        "sell": "NZD",
+        "buy": "DKK"
+    },
+    {
+        "id": 474,
+        "sell": "NZD",
+        "buy": "EUR"
+    },
+    {
+        "id": 475,
+        "sell": "NZD",
+        "buy": "GBP"
+    },
+    {
+        "id": 476,
+        "sell": "NZD",
+        "buy": "HKD"
+    },
+    {
+        "id": 477,
+        "sell": "NZD",
+        "buy": "HUF"
+    },
+    {
+        "id": 478,
+        "sell": "NZD",
+        "buy": "ILS"
+    },
+    {
+        "id": 479,
+        "sell": "NZD",
+        "buy": "JPY"
+    },
+    {
+        "id": 480,
+        "sell": "NZD",
+        "buy": "MXN"
+    },
+    {
+        "id": 481,
+        "sell": "NZD",
+        "buy": "NOK"
+    },
+    {
+        "id": 482,
+        "sell": "NZD",
+        "buy": "OMR"
+    },
+    {
+        "id": 483,
+        "sell": "NZD",
+        "buy": "PLN"
+    },
+    {
+        "id": 484,
+        "sell": "NZD",
+        "buy": "RON"
+    },
+    {
+        "id": 485,
+        "sell": "NZD",
+        "buy": "RUB"
+    },
+    {
+        "id": 486,
+        "sell": "NZD",
+        "buy": "SAR"
+    },
+    {
+        "id": 487,
+        "sell": "NZD",
+        "buy": "SEK"
+    },
+    {
+        "id": 488,
+        "sell": "NZD",
+        "buy": "SGD"
+    },
+    {
+        "id": 489,
+        "sell": "NZD",
+        "buy": "THB"
+    },
+    {
+        "id": 490,
+        "sell": "NZD",
+        "buy": "TRY"
+    },
+    {
+        "id": 491,
+        "sell": "NZD",
+        "buy": "UGX"
+    },
+    {
+        "id": 492,
+        "sell": "NZD",
+        "buy": "USD"
+    },
+    {
+        "id": 493,
+        "sell": "NZD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 494,
+        "sell": "OMR",
+        "buy": "AED"
+    },
+    {
+        "id": 495,
+        "sell": "OMR",
+        "buy": "AUD"
+    },
+    {
+        "id": 496,
+        "sell": "OMR",
+        "buy": "CHF"
+    },
+    {
+        "id": 497,
+        "sell": "OMR",
+        "buy": "EUR"
+    },
+    {
+        "id": 498,
+        "sell": "OMR",
+        "buy": "GBP"
+    },
+    {
+        "id": 499,
+        "sell": "OMR",
+        "buy": "HKD"
+    },
+    {
+        "id": 500,
+        "sell": "OMR",
+        "buy": "JPY"
+    },
+    {
+        "id": 501,
+        "sell": "OMR",
+        "buy": "NZD"
+    },
+    {
+        "id": 502,
+        "sell": "OMR",
+        "buy": "QAR"
+    },
+    {
+        "id": 503,
+        "sell": "OMR",
+        "buy": "USD"
+    },
+    {
+        "id": 504,
+        "sell": "PHP",
+        "buy": "AUD"
+    },
+    {
+        "id": 505,
+        "sell": "PHP",
+        "buy": "CAD"
+    },
+    {
+        "id": 506,
+        "sell": "PHP",
+        "buy": "EUR"
+    },
+    {
+        "id": 507,
+        "sell": "PHP",
+        "buy": "GBP"
+    },
+    {
+        "id": 508,
+        "sell": "PHP",
+        "buy": "USD"
+    },
+    {
+        "id": 509,
+        "sell": "PLN",
+        "buy": "AED"
+    },
+    {
+        "id": 510,
+        "sell": "PLN",
+        "buy": "AUD"
+    },
+    {
+        "id": 511,
+        "sell": "PLN",
+        "buy": "CAD"
+    },
+    {
+        "id": 512,
+        "sell": "PLN",
+        "buy": "CHF"
+    },
+    {
+        "id": 513,
+        "sell": "PLN",
+        "buy": "CNH"
+    },
+    {
+        "id": 514,
+        "sell": "PLN",
+        "buy": "CZK"
+    },
+    {
+        "id": 515,
+        "sell": "PLN",
+        "buy": "DKK"
+    },
+    {
+        "id": 516,
+        "sell": "PLN",
+        "buy": "EUR"
+    },
+    {
+        "id": 517,
+        "sell": "PLN",
+        "buy": "GBP"
+    },
+    {
+        "id": 518,
+        "sell": "PLN",
+        "buy": "HKD"
+    },
+    {
+        "id": 519,
+        "sell": "PLN",
+        "buy": "HUF"
+    },
+    {
+        "id": 520,
+        "sell": "PLN",
+        "buy": "ILS"
+    },
+    {
+        "id": 521,
+        "sell": "PLN",
+        "buy": "JPY"
+    },
+    {
+        "id": 522,
+        "sell": "PLN",
+        "buy": "MXN"
+    },
+    {
+        "id": 523,
+        "sell": "PLN",
+        "buy": "NOK"
+    },
+    {
+        "id": 524,
+        "sell": "PLN",
+        "buy": "NZD"
+    },
+    {
+        "id": 525,
+        "sell": "PLN",
+        "buy": "RON"
+    },
+    {
+        "id": 526,
+        "sell": "PLN",
+        "buy": "RUB"
+    },
+    {
+        "id": 527,
+        "sell": "PLN",
+        "buy": "SAR"
+    },
+    {
+        "id": 528,
+        "sell": "PLN",
+        "buy": "SEK"
+    },
+    {
+        "id": 529,
+        "sell": "PLN",
+        "buy": "SGD"
+    },
+    {
+        "id": 530,
+        "sell": "PLN",
+        "buy": "THB"
+    },
+    {
+        "id": 531,
+        "sell": "PLN",
+        "buy": "TRY"
+    },
+    {
+        "id": 532,
+        "sell": "PLN",
+        "buy": "USD"
+    },
+    {
+        "id": 533,
+        "sell": "PLN",
+        "buy": "ZAR"
+    },
+    {
+        "id": 534,
+        "sell": "QAR",
+        "buy": "AED"
+    },
+    {
+        "id": 535,
+        "sell": "QAR",
+        "buy": "AUD"
+    },
+    {
+        "id": 536,
+        "sell": "QAR",
+        "buy": "BHD"
+    },
+    {
+        "id": 537,
+        "sell": "QAR",
+        "buy": "CAD"
+    },
+    {
+        "id": 538,
+        "sell": "QAR",
+        "buy": "CHF"
+    },
+    {
+        "id": 539,
+        "sell": "QAR",
+        "buy": "CZK"
+    },
+    {
+        "id": 540,
+        "sell": "QAR",
+        "buy": "EUR"
+    },
+    {
+        "id": 541,
+        "sell": "QAR",
+        "buy": "GBP"
+    },
+    {
+        "id": 542,
+        "sell": "QAR",
+        "buy": "JPY"
+    },
+    {
+        "id": 543,
+        "sell": "QAR",
+        "buy": "KWD"
+    },
+    {
+        "id": 544,
+        "sell": "QAR",
+        "buy": "MXN"
+    },
+    {
+        "id": 545,
+        "sell": "QAR",
+        "buy": "NOK"
+    },
+    {
+        "id": 546,
+        "sell": "QAR",
+        "buy": "OMR"
+    },
+    {
+        "id": 547,
+        "sell": "QAR",
+        "buy": "SAR"
+    },
+    {
+        "id": 548,
+        "sell": "QAR",
+        "buy": "SEK"
+    },
+    {
+        "id": 549,
+        "sell": "QAR",
+        "buy": "TRY"
+    },
+    {
+        "id": 550,
+        "sell": "QAR",
+        "buy": "USD"
+    },
+    {
+        "id": 551,
+        "sell": "QAR",
+        "buy": "ZAR"
+    },
+    {
+        "id": 552,
+        "sell": "RON",
+        "buy": "AUD"
+    },
+    {
+        "id": 553,
+        "sell": "RON",
+        "buy": "CAD"
+    },
+    {
+        "id": 554,
+        "sell": "RON",
+        "buy": "CHF"
+    },
+    {
+        "id": 555,
+        "sell": "RON",
+        "buy": "CNH"
+    },
+    {
+        "id": 556,
+        "sell": "RON",
+        "buy": "CZK"
+    },
+    {
+        "id": 557,
+        "sell": "RON",
+        "buy": "DKK"
+    },
+    {
+        "id": 558,
+        "sell": "RON",
+        "buy": "EUR"
+    },
+    {
+        "id": 559,
+        "sell": "RON",
+        "buy": "GBP"
+    },
+    {
+        "id": 560,
+        "sell": "RON",
+        "buy": "HKD"
+    },
+    {
+        "id": 561,
+        "sell": "RON",
+        "buy": "HUF"
+    },
+    {
+        "id": 562,
+        "sell": "RON",
+        "buy": "ILS"
+    },
+    {
+        "id": 563,
+        "sell": "RON",
+        "buy": "JPY"
+    },
+    {
+        "id": 564,
+        "sell": "RON",
+        "buy": "MXN"
+    },
+    {
+        "id": 565,
+        "sell": "RON",
+        "buy": "NOK"
+    },
+    {
+        "id": 566,
+        "sell": "RON",
+        "buy": "NZD"
+    },
+    {
+        "id": 567,
+        "sell": "RON",
+        "buy": "PLN"
+    },
+    {
+        "id": 568,
+        "sell": "RON",
+        "buy": "RUB"
+    },
+    {
+        "id": 569,
+        "sell": "RON",
+        "buy": "SEK"
+    },
+    {
+        "id": 570,
+        "sell": "RON",
+        "buy": "SGD"
+    },
+    {
+        "id": 571,
+        "sell": "RON",
+        "buy": "THB"
+    },
+    {
+        "id": 572,
+        "sell": "RON",
+        "buy": "TRY"
+    },
+    {
+        "id": 573,
+        "sell": "RON",
+        "buy": "USD"
+    },
+    {
+        "id": 574,
+        "sell": "RON",
+        "buy": "ZAR"
+    },
+    {
+        "id": 575,
+        "sell": "RUB",
+        "buy": "AED"
+    },
+    {
+        "id": 576,
+        "sell": "RUB",
+        "buy": "AUD"
+    },
+    {
+        "id": 577,
+        "sell": "RUB",
+        "buy": "BHD"
+    },
+    {
+        "id": 578,
+        "sell": "RUB",
+        "buy": "CAD"
+    },
+    {
+        "id": 579,
+        "sell": "RUB",
+        "buy": "CHF"
+    },
+    {
+        "id": 580,
+        "sell": "RUB",
+        "buy": "CNH"
+    },
+    {
+        "id": 581,
+        "sell": "RUB",
+        "buy": "CZK"
+    },
+    {
+        "id": 582,
+        "sell": "RUB",
+        "buy": "DKK"
+    },
+    {
+        "id": 583,
+        "sell": "RUB",
+        "buy": "EUR"
+    },
+    {
+        "id": 584,
+        "sell": "RUB",
+        "buy": "GBP"
+    },
+    {
+        "id": 585,
+        "sell": "RUB",
+        "buy": "HKD"
+    },
+    {
+        "id": 586,
+        "sell": "RUB",
+        "buy": "HUF"
+    },
+    {
+        "id": 587,
+        "sell": "RUB",
+        "buy": "ILS"
+    },
+    {
+        "id": 588,
+        "sell": "RUB",
+        "buy": "JPY"
+    },
+    {
+        "id": 589,
+        "sell": "RUB",
+        "buy": "KWD"
+    },
+    {
+        "id": 590,
+        "sell": "RUB",
+        "buy": "MXN"
+    },
+    {
+        "id": 591,
+        "sell": "RUB",
+        "buy": "NOK"
+    },
+    {
+        "id": 592,
+        "sell": "RUB",
+        "buy": "NZD"
+    },
+    {
+        "id": 593,
+        "sell": "RUB",
+        "buy": "PLN"
+    },
+    {
+        "id": 594,
+        "sell": "RUB",
+        "buy": "RON"
+    },
+    {
+        "id": 595,
+        "sell": "RUB",
+        "buy": "SAR"
+    },
+    {
+        "id": 596,
+        "sell": "RUB",
+        "buy": "SEK"
+    },
+    {
+        "id": 597,
+        "sell": "RUB",
+        "buy": "SGD"
+    },
+    {
+        "id": 598,
+        "sell": "RUB",
+        "buy": "THB"
+    },
+    {
+        "id": 599,
+        "sell": "RUB",
+        "buy": "TRY"
+    },
+    {
+        "id": 600,
+        "sell": "RUB",
+        "buy": "UGX"
+    },
+    {
+        "id": 601,
+        "sell": "RUB",
+        "buy": "USD"
+    },
+    {
+        "id": 602,
+        "sell": "RUB",
+        "buy": "ZAR"
+    },
+    {
+        "id": 603,
+        "sell": "SAR",
+        "buy": "AED"
+    },
+    {
+        "id": 604,
+        "sell": "SAR",
+        "buy": "AUD"
+    },
+    {
+        "id": 605,
+        "sell": "SAR",
+        "buy": "BHD"
+    },
+    {
+        "id": 606,
+        "sell": "SAR",
+        "buy": "CAD"
+    },
+    {
+        "id": 607,
+        "sell": "SAR",
+        "buy": "CHF"
+    },
+    {
+        "id": 608,
+        "sell": "SAR",
+        "buy": "CZK"
+    },
+    {
+        "id": 609,
+        "sell": "SAR",
+        "buy": "DKK"
+    },
+    {
+        "id": 610,
+        "sell": "SAR",
+        "buy": "EUR"
+    },
+    {
+        "id": 611,
+        "sell": "SAR",
+        "buy": "GBP"
+    },
+    {
+        "id": 612,
+        "sell": "SAR",
+        "buy": "HKD"
+    },
+    {
+        "id": 613,
+        "sell": "SAR",
+        "buy": "HUF"
+    },
+    {
+        "id": 614,
+        "sell": "SAR",
+        "buy": "JPY"
+    },
+    {
+        "id": 615,
+        "sell": "SAR",
+        "buy": "KWD"
+    },
+    {
+        "id": 616,
+        "sell": "SAR",
+        "buy": "MXN"
+    },
+    {
+        "id": 617,
+        "sell": "SAR",
+        "buy": "NOK"
+    },
+    {
+        "id": 618,
+        "sell": "SAR",
+        "buy": "NZD"
+    },
+    {
+        "id": 619,
+        "sell": "SAR",
+        "buy": "PLN"
+    },
+    {
+        "id": 620,
+        "sell": "SAR",
+        "buy": "QAR"
+    },
+    {
+        "id": 621,
+        "sell": "SAR",
+        "buy": "RUB"
+    },
+    {
+        "id": 622,
+        "sell": "SAR",
+        "buy": "SEK"
+    },
+    {
+        "id": 623,
+        "sell": "SAR",
+        "buy": "SGD"
+    },
+    {
+        "id": 624,
+        "sell": "SAR",
+        "buy": "THB"
+    },
+    {
+        "id": 625,
+        "sell": "SAR",
+        "buy": "TRY"
+    },
+    {
+        "id": 626,
+        "sell": "SAR",
+        "buy": "USD"
+    },
+    {
+        "id": 627,
+        "sell": "SAR",
+        "buy": "ZAR"
+    },
+    {
+        "id": 628,
+        "sell": "SEK",
+        "buy": "AED"
+    },
+    {
+        "id": 629,
+        "sell": "SEK",
+        "buy": "AUD"
+    },
+    {
+        "id": 630,
+        "sell": "SEK",
+        "buy": "CAD"
+    },
+    {
+        "id": 631,
+        "sell": "SEK",
+        "buy": "CHF"
+    },
+    {
+        "id": 632,
+        "sell": "SEK",
+        "buy": "CNH"
+    },
+    {
+        "id": 633,
+        "sell": "SEK",
+        "buy": "CZK"
+    },
+    {
+        "id": 634,
+        "sell": "SEK",
+        "buy": "DKK"
+    },
+    {
+        "id": 635,
+        "sell": "SEK",
+        "buy": "EUR"
+    },
+    {
+        "id": 636,
+        "sell": "SEK",
+        "buy": "GBP"
+    },
+    {
+        "id": 637,
+        "sell": "SEK",
+        "buy": "HKD"
+    },
+    {
+        "id": 638,
+        "sell": "SEK",
+        "buy": "HUF"
+    },
+    {
+        "id": 639,
+        "sell": "SEK",
+        "buy": "ILS"
+    },
+    {
+        "id": 640,
+        "sell": "SEK",
+        "buy": "JPY"
+    },
+    {
+        "id": 641,
+        "sell": "SEK",
+        "buy": "MXN"
+    },
+    {
+        "id": 642,
+        "sell": "SEK",
+        "buy": "NOK"
+    },
+    {
+        "id": 643,
+        "sell": "SEK",
+        "buy": "NZD"
+    },
+    {
+        "id": 644,
+        "sell": "SEK",
+        "buy": "PLN"
+    },
+    {
+        "id": 645,
+        "sell": "SEK",
+        "buy": "QAR"
+    },
+    {
+        "id": 646,
+        "sell": "SEK",
+        "buy": "RON"
+    },
+    {
+        "id": 647,
+        "sell": "SEK",
+        "buy": "RUB"
+    },
+    {
+        "id": 648,
+        "sell": "SEK",
+        "buy": "SAR"
+    },
+    {
+        "id": 649,
+        "sell": "SEK",
+        "buy": "SGD"
+    },
+    {
+        "id": 650,
+        "sell": "SEK",
+        "buy": "THB"
+    },
+    {
+        "id": 651,
+        "sell": "SEK",
+        "buy": "TRY"
+    },
+    {
+        "id": 652,
+        "sell": "SEK",
+        "buy": "USD"
+    },
+    {
+        "id": 653,
+        "sell": "SEK",
+        "buy": "ZAR"
+    },
+    {
+        "id": 654,
+        "sell": "SGD",
+        "buy": "AED"
+    },
+    {
+        "id": 655,
+        "sell": "SGD",
+        "buy": "AUD"
+    },
+    {
+        "id": 656,
+        "sell": "SGD",
+        "buy": "BHD"
+    },
+    {
+        "id": 657,
+        "sell": "SGD",
+        "buy": "CAD"
+    },
+    {
+        "id": 658,
+        "sell": "SGD",
+        "buy": "CHF"
+    },
+    {
+        "id": 659,
+        "sell": "SGD",
+        "buy": "CNH"
+    },
+    {
+        "id": 660,
+        "sell": "SGD",
+        "buy": "CZK"
+    },
+    {
+        "id": 661,
+        "sell": "SGD",
+        "buy": "DKK"
+    },
+    {
+        "id": 662,
+        "sell": "SGD",
+        "buy": "EUR"
+    },
+    {
+        "id": 663,
+        "sell": "SGD",
+        "buy": "GBP"
+    },
+    {
+        "id": 664,
+        "sell": "SGD",
+        "buy": "HKD"
+    },
+    {
+        "id": 665,
+        "sell": "SGD",
+        "buy": "HUF"
+    },
+    {
+        "id": 666,
+        "sell": "SGD",
+        "buy": "ILS"
+    },
+    {
+        "id": 667,
+        "sell": "SGD",
+        "buy": "JPY"
+    },
+    {
+        "id": 668,
+        "sell": "SGD",
+        "buy": "MXN"
+    },
+    {
+        "id": 669,
+        "sell": "SGD",
+        "buy": "NOK"
+    },
+    {
+        "id": 670,
+        "sell": "SGD",
+        "buy": "NZD"
+    },
+    {
+        "id": 671,
+        "sell": "SGD",
+        "buy": "PLN"
+    },
+    {
+        "id": 672,
+        "sell": "SGD",
+        "buy": "RON"
+    },
+    {
+        "id": 673,
+        "sell": "SGD",
+        "buy": "RUB"
+    },
+    {
+        "id": 674,
+        "sell": "SGD",
+        "buy": "SAR"
+    },
+    {
+        "id": 675,
+        "sell": "SGD",
+        "buy": "SEK"
+    },
+    {
+        "id": 676,
+        "sell": "SGD",
+        "buy": "THB"
+    },
+    {
+        "id": 677,
+        "sell": "SGD",
+        "buy": "TRY"
+    },
+    {
+        "id": 678,
+        "sell": "SGD",
+        "buy": "USD"
+    },
+    {
+        "id": 679,
+        "sell": "SGD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 680,
+        "sell": "THB",
+        "buy": "AUD"
+    },
+    {
+        "id": 681,
+        "sell": "THB",
+        "buy": "CAD"
+    },
+    {
+        "id": 682,
+        "sell": "THB",
+        "buy": "CHF"
+    },
+    {
+        "id": 683,
+        "sell": "THB",
+        "buy": "CNH"
+    },
+    {
+        "id": 684,
+        "sell": "THB",
+        "buy": "CZK"
+    },
+    {
+        "id": 685,
+        "sell": "THB",
+        "buy": "DKK"
+    },
+    {
+        "id": 686,
+        "sell": "THB",
+        "buy": "EUR"
+    },
+    {
+        "id": 687,
+        "sell": "THB",
+        "buy": "GBP"
+    },
+    {
+        "id": 688,
+        "sell": "THB",
+        "buy": "HKD"
+    },
+    {
+        "id": 689,
+        "sell": "THB",
+        "buy": "HUF"
+    },
+    {
+        "id": 690,
+        "sell": "THB",
+        "buy": "ILS"
+    },
+    {
+        "id": 691,
+        "sell": "THB",
+        "buy": "JPY"
+    },
+    {
+        "id": 692,
+        "sell": "THB",
+        "buy": "MXN"
+    },
+    {
+        "id": 693,
+        "sell": "THB",
+        "buy": "NOK"
+    },
+    {
+        "id": 694,
+        "sell": "THB",
+        "buy": "NZD"
+    },
+    {
+        "id": 695,
+        "sell": "THB",
+        "buy": "PLN"
+    },
+    {
+        "id": 696,
+        "sell": "THB",
+        "buy": "RON"
+    },
+    {
+        "id": 697,
+        "sell": "THB",
+        "buy": "RUB"
+    },
+    {
+        "id": 698,
+        "sell": "THB",
+        "buy": "SAR"
+    },
+    {
+        "id": 699,
+        "sell": "THB",
+        "buy": "SEK"
+    },
+    {
+        "id": 700,
+        "sell": "THB",
+        "buy": "SGD"
+    },
+    {
+        "id": 701,
+        "sell": "THB",
+        "buy": "TRY"
+    },
+    {
+        "id": 702,
+        "sell": "THB",
+        "buy": "USD"
+    },
+    {
+        "id": 703,
+        "sell": "THB",
+        "buy": "ZAR"
+    },
+    {
+        "id": 704,
+        "sell": "TRY",
+        "buy": "AUD"
+    },
+    {
+        "id": 705,
+        "sell": "TRY",
+        "buy": "CAD"
+    },
+    {
+        "id": 706,
+        "sell": "TRY",
+        "buy": "CHF"
+    },
+    {
+        "id": 707,
+        "sell": "TRY",
+        "buy": "CNH"
+    },
+    {
+        "id": 708,
+        "sell": "TRY",
+        "buy": "CZK"
+    },
+    {
+        "id": 709,
+        "sell": "TRY",
+        "buy": "DKK"
+    },
+    {
+        "id": 710,
+        "sell": "TRY",
+        "buy": "EUR"
+    },
+    {
+        "id": 711,
+        "sell": "TRY",
+        "buy": "GBP"
+    },
+    {
+        "id": 712,
+        "sell": "TRY",
+        "buy": "HKD"
+    },
+    {
+        "id": 713,
+        "sell": "TRY",
+        "buy": "HUF"
+    },
+    {
+        "id": 714,
+        "sell": "TRY",
+        "buy": "ILS"
+    },
+    {
+        "id": 715,
+        "sell": "TRY",
+        "buy": "JPY"
+    },
+    {
+        "id": 716,
+        "sell": "TRY",
+        "buy": "MXN"
+    },
+    {
+        "id": 717,
+        "sell": "TRY",
+        "buy": "NOK"
+    },
+    {
+        "id": 718,
+        "sell": "TRY",
+        "buy": "NZD"
+    },
+    {
+        "id": 719,
+        "sell": "TRY",
+        "buy": "PLN"
+    },
+    {
+        "id": 720,
+        "sell": "TRY",
+        "buy": "QAR"
+    },
+    {
+        "id": 721,
+        "sell": "TRY",
+        "buy": "RON"
+    },
+    {
+        "id": 722,
+        "sell": "TRY",
+        "buy": "RUB"
+    },
+    {
+        "id": 723,
+        "sell": "TRY",
+        "buy": "SAR"
+    },
+    {
+        "id": 724,
+        "sell": "TRY",
+        "buy": "SEK"
+    },
+    {
+        "id": 725,
+        "sell": "TRY",
+        "buy": "SGD"
+    },
+    {
+        "id": 726,
+        "sell": "TRY",
+        "buy": "THB"
+    },
+    {
+        "id": 727,
+        "sell": "TRY",
+        "buy": "USD"
+    },
+    {
+        "id": 728,
+        "sell": "TRY",
+        "buy": "ZAR"
+    },
+    {
+        "id": 729,
+        "sell": "UGX",
+        "buy": "CAD"
+    },
+    {
+        "id": 730,
+        "sell": "UGX",
+        "buy": "CHF"
+    },
+    {
+        "id": 731,
+        "sell": "UGX",
+        "buy": "CNH"
+    },
+    {
+        "id": 732,
+        "sell": "UGX",
+        "buy": "DKK"
+    },
+    {
+        "id": 733,
+        "sell": "UGX",
+        "buy": "EUR"
+    },
+    {
+        "id": 734,
+        "sell": "UGX",
+        "buy": "GBP"
+    },
+    {
+        "id": 735,
+        "sell": "UGX",
+        "buy": "JPY"
+    },
+    {
+        "id": 736,
+        "sell": "UGX",
+        "buy": "NZD"
+    },
+    {
+        "id": 737,
+        "sell": "UGX",
+        "buy": "RUB"
+    },
+    {
+        "id": 738,
+        "sell": "UGX",
+        "buy": "USD"
+    },
+    {
+        "id": 739,
+        "sell": "UGX",
+        "buy": "ZAR"
+    },
+    {
+        "id": 740,
+        "sell": "USD",
+        "buy": "AED"
+    },
+    {
+        "id": 741,
+        "sell": "USD",
+        "buy": "AUD"
+    },
+    {
+        "id": 742,
+        "sell": "USD",
+        "buy": "BHD"
+    },
+    {
+        "id": 743,
+        "sell": "USD",
+        "buy": "CAD"
+    },
+    {
+        "id": 744,
+        "sell": "USD",
+        "buy": "CHF"
+    },
+    {
+        "id": 745,
+        "sell": "USD",
+        "buy": "CNH"
+    },
+    {
+        "id": 746,
+        "sell": "USD",
+        "buy": "CZK"
+    },
+    {
+        "id": 747,
+        "sell": "USD",
+        "buy": "DKK"
+    },
+    {
+        "id": 748,
+        "sell": "USD",
+        "buy": "EUR"
+    },
+    {
+        "id": 749,
+        "sell": "USD",
+        "buy": "GBP"
+    },
+    {
+        "id": 750,
+        "sell": "USD",
+        "buy": "HKD"
+    },
+    {
+        "id": 751,
+        "sell": "USD",
+        "buy": "HUF"
+    },
+    {
+        "id": 752,
+        "sell": "USD",
+        "buy": "IDR"
+    },
+    {
+        "id": 753,
+        "sell": "USD",
+        "buy": "ILS"
+    },
+    {
+        "id": 754,
+        "sell": "USD",
+        "buy": "INR"
+    },
+    {
+        "id": 755,
+        "sell": "USD",
+        "buy": "JPY"
+    },
+    {
+        "id": 756,
+        "sell": "USD",
+        "buy": "KES"
+    },
+    {
+        "id": 757,
+        "sell": "USD",
+        "buy": "KWD"
+    },
+    {
+        "id": 758,
+        "sell": "USD",
+        "buy": "MXN"
+    },
+    {
+        "id": 759,
+        "sell": "USD",
+        "buy": "MYR"
+    },
+    {
+        "id": 760,
+        "sell": "USD",
+        "buy": "NOK"
+    },
+    {
+        "id": 761,
+        "sell": "USD",
+        "buy": "NZD"
+    },
+    {
+        "id": 762,
+        "sell": "USD",
+        "buy": "OMR"
+    },
+    {
+        "id": 763,
+        "sell": "USD",
+        "buy": "PHP"
+    },
+    {
+        "id": 764,
+        "sell": "USD",
+        "buy": "PLN"
+    },
+    {
+        "id": 765,
+        "sell": "USD",
+        "buy": "QAR"
+    },
+    {
+        "id": 766,
+        "sell": "USD",
+        "buy": "RON"
+    },
+    {
+        "id": 767,
+        "sell": "USD",
+        "buy": "RUB"
+    },
+    {
+        "id": 768,
+        "sell": "USD",
+        "buy": "SAR"
+    },
+    {
+        "id": 769,
+        "sell": "USD",
+        "buy": "SEK"
+    },
+    {
+        "id": 770,
+        "sell": "USD",
+        "buy": "SGD"
+    },
+    {
+        "id": 771,
+        "sell": "USD",
+        "buy": "THB"
+    },
+    {
+        "id": 772,
+        "sell": "USD",
+        "buy": "TRY"
+    },
+    {
+        "id": 773,
+        "sell": "USD",
+        "buy": "UGX"
+    },
+    {
+        "id": 774,
+        "sell": "USD",
+        "buy": "ZAR"
+    },
+    {
+        "id": 775,
+        "sell": "ZAR",
+        "buy": "AED"
+    },
+    {
+        "id": 776,
+        "sell": "ZAR",
+        "buy": "AUD"
+    },
+    {
+        "id": 777,
+        "sell": "ZAR",
+        "buy": "CAD"
+    },
+    {
+        "id": 778,
+        "sell": "ZAR",
+        "buy": "CHF"
+    },
+    {
+        "id": 779,
+        "sell": "ZAR",
+        "buy": "CNH"
+    },
+    {
+        "id": 780,
+        "sell": "ZAR",
+        "buy": "CZK"
+    },
+    {
+        "id": 781,
+        "sell": "ZAR",
+        "buy": "DKK"
+    },
+    {
+        "id": 782,
+        "sell": "ZAR",
+        "buy": "EUR"
+    },
+    {
+        "id": 783,
+        "sell": "ZAR",
+        "buy": "GBP"
+    },
+    {
+        "id": 784,
+        "sell": "ZAR",
+        "buy": "HKD"
+    },
+    {
+        "id": 785,
+        "sell": "ZAR",
+        "buy": "HUF"
+    },
+    {
+        "id": 786,
+        "sell": "ZAR",
+        "buy": "ILS"
+    },
+    {
+        "id": 787,
+        "sell": "ZAR",
+        "buy": "JPY"
+    },
+    {
+        "id": 788,
+        "sell": "ZAR",
+        "buy": "KES"
+    },
+    {
+        "id": 789,
+        "sell": "ZAR",
+        "buy": "KWD"
+    },
+    {
+        "id": 790,
+        "sell": "ZAR",
+        "buy": "MXN"
+    },
+    {
+        "id": 791,
+        "sell": "ZAR",
+        "buy": "NOK"
+    },
+    {
+        "id": 792,
+        "sell": "ZAR",
+        "buy": "NZD"
+    },
+    {
+        "id": 793,
+        "sell": "ZAR",
+        "buy": "PLN"
+    },
+    {
+        "id": 794,
+        "sell": "ZAR",
+        "buy": "QAR"
+    },
+    {
+        "id": 795,
+        "sell": "ZAR",
+        "buy": "RON"
+    },
+    {
+        "id": 796,
+        "sell": "ZAR",
+        "buy": "RUB"
+    },
+    {
+        "id": 797,
+        "sell": "ZAR",
+        "buy": "SAR"
+    },
+    {
+        "id": 798,
+        "sell": "ZAR",
+        "buy": "SEK"
+    },
+    {
+        "id": 799,
+        "sell": "ZAR",
+        "buy": "SGD"
+    },
+    {
+        "id": 800,
+        "sell": "ZAR",
+        "buy": "THB"
+    },
+    {
+        "id": 801,
+        "sell": "ZAR",
+        "buy": "TRY"
+    },
+    {
+        "id": 802,
+        "sell": "ZAR",
+        "buy": "UGX"
+    },
+    {
+        "id": 803,
+        "sell": "ZAR",
+        "buy": "USD"
+    }
+]
