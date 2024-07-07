@@ -683,7 +683,7 @@
     "countryActiveFlag": true,
     "currencyTopIndex": 0,
     "fxeMarket": "UK",
-    "restrictedCurrency": true,
+    "restrictedCurrency": false,
     "restrictedCountry": false,
     "restrictionDescription": "Clients can make CNY payments by converting funds firstly to CNH and then to CNY",
     "createdTime": null,
