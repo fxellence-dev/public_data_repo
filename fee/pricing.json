@@ -11,7 +11,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -25,7 +26,8 @@
     "standardFee": 1.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ALL",
@@ -39,7 +41,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "DZD",
@@ -53,7 +56,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -67,7 +71,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -81,7 +86,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AOA",
@@ -95,7 +101,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -109,7 +116,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -123,7 +131,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ARS",
@@ -137,7 +146,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AMD",
@@ -151,7 +161,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AWG",
@@ -165,7 +176,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -179,7 +191,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -193,7 +206,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AZN",
@@ -207,7 +221,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BSD",
@@ -221,7 +236,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -235,7 +251,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BDT",
@@ -249,7 +266,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BBD",
@@ -263,7 +281,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BYN",
@@ -277,7 +296,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -291,7 +311,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BZD",
@@ -305,7 +326,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -319,7 +341,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BMD",
@@ -333,7 +356,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BTN",
@@ -347,7 +371,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BOB",
@@ -361,7 +386,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AUD",
@@ -375,7 +401,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BAM",
@@ -389,7 +416,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BWP",
@@ -403,7 +431,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BHD",
@@ -417,7 +446,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BRL",
@@ -431,7 +461,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CAD",
@@ -445,7 +476,8 @@
     "standardFee": 2.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BND",
@@ -459,7 +491,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BGN",
@@ -473,7 +506,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -487,7 +521,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "BIF",
@@ -501,7 +536,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CVE",
@@ -515,7 +551,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KHR",
@@ -529,7 +566,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XAF",
@@ -543,7 +581,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CNH",
@@ -557,7 +596,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KYD",
@@ -571,7 +611,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XAF",
@@ -585,7 +626,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XAF",
@@ -599,7 +641,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CLP",
@@ -613,7 +656,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CZK",
@@ -627,7 +671,8 @@
     "standardFee": 2.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CNY",
@@ -641,7 +686,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "DKK",
@@ -655,7 +701,8 @@
     "standardFee": 1.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "DKK",
@@ -669,7 +716,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "COP",
@@ -683,7 +731,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KMF",
@@ -697,7 +746,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XAF",
@@ -711,7 +761,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CDF",
@@ -725,7 +776,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "DKK",
@@ -739,7 +791,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CRC",
@@ -753,7 +806,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -767,7 +821,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "HRK",
@@ -781,7 +836,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CUP",
@@ -795,7 +851,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ANG",
@@ -809,7 +866,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -823,7 +881,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -837,7 +896,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -851,7 +911,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "DJF",
@@ -865,7 +926,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -879,7 +941,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "DOP",
@@ -893,7 +956,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -907,7 +971,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EGP",
@@ -921,7 +986,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -935,7 +1001,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "XAF",
@@ -949,7 +1016,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ERN",
@@ -963,7 +1031,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -977,7 +1046,8 @@
     "standardFee": 1.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "SZL",
@@ -991,7 +1061,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ETB",
@@ -1005,7 +1076,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "FKP",
@@ -1019,7 +1091,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1033,7 +1106,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "FJD",
@@ -1047,7 +1121,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1061,7 +1136,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1075,7 +1151,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1089,7 +1166,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "XPF",
@@ -1103,7 +1181,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1117,7 +1196,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "XAF",
@@ -1131,7 +1211,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "GMD",
@@ -1145,7 +1226,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "GEL",
@@ -1159,7 +1241,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1173,7 +1256,8 @@
     "standardFee": 1.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "GHS",
@@ -1187,7 +1271,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "GIP",
@@ -1201,7 +1286,8 @@
     "standardFee": null,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1215,7 +1301,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1229,7 +1316,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -1243,7 +1331,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1257,7 +1346,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1271,7 +1361,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "GTQ",
@@ -1285,7 +1376,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1299,7 +1391,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "GNF",
@@ -1313,7 +1406,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -1327,7 +1421,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "GYD",
@@ -1341,7 +1436,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "HTG",
@@ -1355,7 +1451,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1369,7 +1466,8 @@
     "standardFee": 1.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1383,7 +1481,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "HNL",
@@ -1397,7 +1496,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1411,7 +1511,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1425,7 +1526,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "ISK",
@@ -1439,7 +1541,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1453,7 +1556,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1467,7 +1571,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "IRR",
@@ -1481,7 +1586,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "IQD",
@@ -1495,7 +1601,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1509,7 +1616,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1523,7 +1631,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1537,7 +1646,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1551,7 +1661,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "JMD",
@@ -1565,7 +1676,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1579,7 +1691,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1593,7 +1706,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "JOD",
@@ -1607,7 +1721,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KZT",
@@ -1621,7 +1736,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1635,7 +1751,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1649,7 +1766,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1663,7 +1781,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "KGS",
@@ -1677,7 +1796,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "LAK",
@@ -1691,7 +1811,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1705,7 +1826,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "LBP",
@@ -1719,7 +1841,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "LSL",
@@ -1733,7 +1856,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "LRD",
@@ -1747,7 +1871,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "LYD",
@@ -1761,7 +1886,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "EUR",
@@ -1775,7 +1901,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 4.0
   },
   {
     "isoCurrencyCode": "HKD",
@@ -1789,7 +1916,8 @@
     "standardFee": 2.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "HUF",
@@ -1803,7 +1931,8 @@
     "standardFee": 2.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MOP",
@@ -1817,7 +1946,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MGA",
@@ -1831,7 +1961,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MWK",
@@ -1845,7 +1976,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "INR",
@@ -1859,7 +1991,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MVR",
@@ -1873,7 +2006,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -1887,7 +2021,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "IDR",
@@ -1901,7 +2036,8 @@
     "standardFee": 2.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ILS",
@@ -1915,7 +2051,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ILS",
@@ -1929,7 +2066,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MRU",
@@ -1943,7 +2081,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MUR",
@@ -1957,7 +2096,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "JPY",
@@ -1971,7 +2111,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MXN",
@@ -1985,7 +2126,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KES",
@@ -1999,7 +2141,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MDL",
@@ -2013,7 +2156,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KWD",
@@ -2027,7 +2171,8 @@
     "standardFee": null,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MNT",
@@ -2041,7 +2186,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MYR",
@@ -2055,7 +2201,8 @@
     "standardFee": 2.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -2069,7 +2216,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MAD",
@@ -2083,7 +2231,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MZN",
@@ -2097,7 +2246,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MMK",
@@ -2111,7 +2261,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NAD",
@@ -2125,7 +2276,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NZD",
@@ -2139,7 +2291,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NPR",
@@ -2153,7 +2306,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NZD",
@@ -2167,7 +2321,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -2181,7 +2336,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NZD",
@@ -2195,7 +2351,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NIO",
@@ -2209,7 +2366,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -2223,7 +2381,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NGN",
@@ -2237,7 +2396,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NZD",
@@ -2251,7 +2411,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NZD",
@@ -2265,7 +2426,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KPW",
@@ -2279,7 +2441,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MKD",
@@ -2293,7 +2456,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NOK",
@@ -2307,7 +2471,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NOK",
@@ -2321,7 +2486,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "NOK",
@@ -2335,7 +2501,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PKR",
@@ -2349,7 +2516,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "OMR",
@@ -2363,7 +2531,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PHP",
@@ -2377,7 +2546,8 @@
     "standardFee": 4.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PAB",
@@ -2391,7 +2561,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PGK",
@@ -2405,7 +2576,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PYG",
@@ -2419,7 +2591,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PEN",
@@ -2433,7 +2606,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "PLN",
@@ -2447,7 +2621,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "GBP",
@@ -2461,7 +2636,8 @@
     "standardFee": 1.0,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 3.0
   },
   {
     "isoCurrencyCode": "GBP",
@@ -2475,7 +2651,8 @@
     "standardFee": 1.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 3.0
   },
   {
     "isoCurrencyCode": "GBP",
@@ -2489,7 +2666,8 @@
     "standardFee": 1.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 3.0
   },
   {
     "isoCurrencyCode": "GBP",
@@ -2503,7 +2681,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 3.0
   },
   {
     "isoCurrencyCode": "GBP",
@@ -2517,7 +2696,8 @@
     "standardFee": 1.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 3.0
   },
   {
     "isoCurrencyCode": "QAR",
@@ -2531,7 +2711,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "RON",
@@ -2545,7 +2726,8 @@
     "standardFee": 2.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "RUB",
@@ -2559,7 +2741,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "RWF",
@@ -2573,7 +2756,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SAR",
@@ -2587,7 +2771,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SHP",
@@ -2601,7 +2786,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -2615,7 +2801,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -2629,7 +2816,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SGD",
@@ -2643,7 +2831,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ZAR",
@@ -2657,7 +2846,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XCD",
@@ -2671,7 +2861,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "WST",
@@ -2685,7 +2876,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SEK",
@@ -2699,7 +2891,8 @@
     "standardFee": 1.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "STN",
@@ -2713,7 +2906,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CHF",
@@ -2727,7 +2921,8 @@
     "standardFee": null,
     "priorityFee": 14.0,
     "feeCurrency": "GBP",
-    "tier": 2.0
+    "tier": 2.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -2741,7 +2936,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "RSD",
@@ -2755,7 +2951,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SCR",
@@ -2769,7 +2966,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SLE",
@@ -2783,7 +2981,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "CHF",
@@ -2797,7 +2996,8 @@
     "standardFee": null,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ANG",
@@ -2811,7 +3011,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "THB",
@@ -2825,7 +3026,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "TRY",
@@ -2839,7 +3041,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SBD",
@@ -2853,7 +3056,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SOS",
@@ -2867,7 +3071,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "UGX",
@@ -2881,7 +3086,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "AED",
@@ -2895,7 +3101,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "KRW",
@@ -2909,7 +3116,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SSP",
@@ -2923,7 +3131,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -2937,7 +3146,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "LKR",
@@ -2951,7 +3161,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SDG",
@@ -2965,7 +3176,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "SRD",
@@ -2979,7 +3191,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -2993,7 +3206,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3007,7 +3221,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3021,7 +3236,8 @@
     "standardFee": 1.0,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "SYP",
@@ -3035,7 +3251,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "TWD",
@@ -3049,7 +3266,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "TJS",
@@ -3063,7 +3281,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "TZS",
@@ -3077,7 +3296,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3091,7 +3311,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3105,7 +3326,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "XOF",
@@ -3119,7 +3341,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3133,7 +3356,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "TOP",
@@ -3147,7 +3371,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "TTD",
@@ -3161,7 +3386,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "TND",
@@ -3175,7 +3401,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3189,7 +3416,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "TMT",
@@ -3203,7 +3431,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3217,7 +3446,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3231,7 +3461,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3245,7 +3476,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "UAH",
@@ -3259,7 +3491,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3273,7 +3506,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3287,7 +3521,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3301,7 +3536,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3315,7 +3551,8 @@
     "standardFee": 1.0,
     "priorityFee": 11.0,
     "feeCurrency": "GBP",
-    "tier": 1.0
+    "tier": 1.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "UYU",
@@ -3329,7 +3566,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "UZS",
@@ -3343,7 +3581,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "VUV",
@@ -3357,7 +3596,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "VEF",
@@ -3371,7 +3611,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "VND",
@@ -3385,7 +3626,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3399,7 +3641,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "USD",
@@ -3413,7 +3656,8 @@
     "standardFee": 1.0,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 5.0
   },
   {
     "isoCurrencyCode": "XPF",
@@ -3427,7 +3671,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "MAD",
@@ -3441,7 +3686,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "YER",
@@ -3455,7 +3701,8 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ZMW",
@@ -3469,7 +3716,8 @@
     "standardFee": null,
     "priorityFee": 22.0,
     "feeCurrency": "GBP",
-    "tier": 3.0
+    "tier": 3.0,
+    "Order": 1.0
   },
   {
     "isoCurrencyCode": "ZWL",
@@ -3483,6 +3731,7 @@
     "standardFee": null,
     "priorityFee": 31.0,
     "feeCurrency": "GBP",
-    "tier": 4.0
+    "tier": 4.0,
+    "Order": 1.0
   }
 ]
