@@ -3907,7 +3907,7 @@
     "deliveryDateType": null,
     "fxeMarket": "UK",
     "restrictedCurrency": true,
-    "restrictedCountry": true,
+    "restrictedCountry": false,
     "paymentType": "priority",
     "displayDirection": "ltl",
     "restrictionDescription": "All payments to Ukraine remain subject to delays due to the ongoing conflict and the increased sanctions risk.  Restrictions on: Crimea, Donetsk, Kherson, Luhansk & Zaporizhzhia",
