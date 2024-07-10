@@ -3523,5 +3523,20 @@
     "feeCurrency": "GBP",
     "tier": 4.0,
     "Order": 1.0
+  },
+  {
+    "isoCurrencyCode": "ETB",
+    "currencyName": "Ethiopian Birr",
+    "currencyNamePlural": "Ethiopian Birrs",
+    "currencySymbol": "Br",
+    "isoCountryCode": "ET",
+    "countryName": "Ethiopia",
+    "standardPayment": null,
+    "priorityPayment": true,
+    "standardFee": null,
+    "priorityFee": 31.0,
+    "feeCurrency": "GBP",
+    "tier": 4.0,
+    "Order": 1.0
   }
 ]
