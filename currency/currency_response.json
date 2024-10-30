@@ -363,7 +363,7 @@
     "countryName": "Belarus",
     "canBuy": false,
     "canSell": false,
-    "ratesAvailableFlag": true,
+    "ratesAvailableFlag": false,
     "countryActiveFlag": true,
     "currencyTopIndex": 0,
     "fxeActiveCountry": false,
