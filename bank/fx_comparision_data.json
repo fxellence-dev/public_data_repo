@@ -8,30 +8,6 @@
       "isFxellence": true
     },
     {
-      "name": "MoneyGram",
-      "imageName": "moneygram.svg",
-      "rate": 1.17582,
-      "transferFee": 0.0,
-      "amountConverted": 11750.821999,
-      "isFxellence": false
-    },
-    {
-      "name": "RBS",
-      "imageName": "rbs.svg",
-      "rate": 1.17288,
-      "transferFee": 0.0,
-      "amountConverted": 11720.882293,
-      "isFxellence": false
-    },
-    {
-      "name": "NatWest",
-      "imageName": "natwest.svg",
-      "rate": 1.17278,
-      "transferFee": 0.0,
-      "amountConverted": 11720.782303,
-      "isFxellence": false
-    },
-    {
       "name": "Barclays",
       "imageName": "barclays.svg",
       "rate": 1.16766,
