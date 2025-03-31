@@ -1,0 +1,82 @@
+[
+    {
+      "name": "FXellence",
+      "imageName": "fx_logo.png",
+      "rate": 1.20047,
+      "transferFee": 0.0,
+      "amountConverted": 11950.81,
+      "isFxellence": true
+    },
+    {
+      "name": "MoneyGram",
+      "imageName": "moneygram.svg",
+      "rate": 1.17582,
+      "transferFee": 0.0,
+      "amountConverted": 11750.821999,
+      "isFxellence": false
+    },
+    {
+      "name": "RBS",
+      "imageName": "rbs.svg",
+      "rate": 1.17288,
+      "transferFee": 0.0,
+      "amountConverted": 11720.882293,
+      "isFxellence": false
+    },
+    {
+      "name": "NatWest",
+      "imageName": "natwest.svg",
+      "rate": 1.17278,
+      "transferFee": 0.0,
+      "amountConverted": 11720.782303,
+      "isFxellence": false
+    },
+    {
+      "name": "Barclays",
+      "imageName": "barclays.svg",
+      "rate": 1.16766,
+      "transferFee": 0.0,
+      "amountConverted": 11670.662815,
+      "isFxellence": false
+    },
+    {
+      "name": "Skrill",
+      "imageName": "skrill.svg",
+      "rate": 1.16623,
+      "transferFee": 0.0,
+      "amountConverted": 11660.232958,
+      "isFxellence": false
+    },
+    {
+      "name": "Lloyds Bank",
+      "imageName": "lloyds.svg",
+      "rate": 1.15771,
+      "transferFee": 0.0,
+      "amountConverted": 11570.71381,
+      "isFxellence": false
+    },
+    {
+      "name": "Halifax",
+      "imageName": "halifax.svg",
+      "rate": 1.15767,
+      "transferFee": 0.0,
+      "amountConverted": 11570.673814,
+      "isFxellence": false
+    },
+    {
+      "name": "Nationwide",
+      "imageName": "nationwide.svg",
+      "rate": 1.17492,
+      "transferFee": 15.0,
+      "amountConverted": 11570.293852,
+      "isFxellence": false
+    },
+    {
+      "name": "PayPal",
+      "imageName": "paypal.svg",
+      "rate": 1.14614,
+      "transferFee": 2.99,
+      "amountConverted": 11420.725309,
+      "isFxellence": false
+    }
+  ]
