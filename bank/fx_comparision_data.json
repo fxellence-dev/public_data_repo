@@ -2,98 +2,98 @@
   {
     "name": "FXellence",
     "imageName": "fx_logo.png",
-    "rate": 1.1870,
+    "rate": 1.1727,
     "transferFee": 0.0,
-    "amountConverted": 11870.00,
+    "amountConverted": 11727.00,
     "isFxellence": true,
-    "updatedAt": "03-APR-2025"
+    "updatedAt": "04-APR-2025"
   },
   {
     "name": "OFX",
     "imageName": "ofx.svg",
-    "rate": 1.18636,
+    "rate": 1.17204,
     "transferFee": 0.0,
-    "amountConverted": 11863.80,
+    "amountConverted": 11720.40,
     "isFxellence": false
   },
   {
     "name": "Remitly",
     "imageName": "remitly.svg",
-    "rate": 1.18408,
+    "rate": 1.17056,
     "transferFee": 0.0,
-    "amountConverted": 11840.80,
+    "amountConverted": 11705.60,
     "isFxellence": false
   },
   {
     "name": "MoneyGram",
     "imageName": "moneygram.svg",
-    "rate": 1.17359,
+    "rate": 1.16538,
     "transferFee": 0.0,
-    "amountConverted": 11735.90,
+    "amountConverted": 11653.80,
     "isFxellence": false
   },
   {
     "name": "RBS",
     "imageName": "rbs.svg",
-    "rate": 1.16915,
+    "rate": 1.15511,
     "transferFee": 0.0,
-    "amountConverted": 11691.50,
+    "amountConverted": 11551.10,
     "isFxellence": false
   },
   {
     "name": "NatWest",
     "imageName": "natwest.svg",
-    "rate": 1.16905,
+    "rate": 1.15501,
     "transferFee": 0.0,
-    "amountConverted": 11690.50,
+    "amountConverted": 11550.10,
     "isFxellence": false
   },
   {
     "name": "Nationwide",
     "imageName": "nationwide.svg",
-    "rate": 1.16605,
+    "rate": 1.15419,
     "transferFee": 0.0,
-    "amountConverted": 11660.50,
+    "amountConverted": 11541.90,
     "isFxellence": false
   },
   {
     "name": "Barclays",
     "imageName": "barclays.svg",
-    "rate": 1.16368,
+    "rate": 1.14970,
     "transferFee": 0.0,
-    "amountConverted": 11636.80,
+    "amountConverted": 11497.00,
     "isFxellence": false
   },
   {
     "name": "Lloyds Bank",
     "imageName": "lloyds.svg",
-    "rate": 1.16350,
+    "rate": 1.14953,
     "transferFee": 0.0,
-    "amountConverted": 11635.00,
+    "amountConverted": 11495.30,
     "isFxellence": false
   },
   {
     "name": "Skrill",
     "imageName": "skrill.svg",
-    "rate": 1.16209,
+    "rate": 1.14810,
     "transferFee": 0.0,
-    "amountConverted": 11620.90,
+    "amountConverted": 11481.00,
     "isFxellence": false
   },
   {
     "name": "Halifax",
     "imageName": "halifax.svg",
-    "rate": 1.15408,
+    "rate": 1.14000,
     "transferFee": 0.0,
-    "amountConverted": 11540.80,
+    "amountConverted": 11400.00,
     "isFxellence": false
   },
   {
     "name": "PayPal",
     "imageName": "paypal.svg",
-    "rate": 1.14374,
+    "rate": 1.13720,
     "transferFee": 0.00,
-    "amountConverted": 11437.40,
+    "amountConverted": 11372.00,
     "isFxellence": false
   }
 ]
