@@ -25,14 +25,6 @@
     "isFxellence": false
   },
   {
-    "name": "Xoom",
-    "imageName": "xoom.svg",
-    "rate": 1.1446,
-    "transferFee": 0.0,
-    "amountConverted": 11446.00,
-    "isFxellence": false
-  },
-  {
     "name": "MoneyGram",
     "imageName": "moneygram.svg",
     "rate": 1.13938,
