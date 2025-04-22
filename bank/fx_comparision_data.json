@@ -26,7 +26,7 @@
   },
   {
     "name": "Western Union",
-    "imageName": "western_union.svg",
+    "imageName": "western-union.svg",
     "rate": 1.14416,
     "transferFee": 0.0,
     "amountConverted": 11441.60,
