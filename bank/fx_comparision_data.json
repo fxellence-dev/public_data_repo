@@ -2,60 +2,60 @@
     {
         "name": "FXellence",
         "imageName": "fx_logo.png",
-        "rate": "1.16710",
+        "rate": "1.16680",
         "transferFee": "0.00 ",
-        "amountConverted": "11671.00 ",
+        "amountConverted": "11668.00 ",
         "isFxellence": "true",
-        "updatedAt": "29-Apr-2025"
+        "updatedAt": "30-Apr-2025"
     },
     {
         "name": "Remitly",
         "imageName": "remitly.svg",
-        "rate": "1.16433",
+        "rate": "1.16395",
         "transferFee": "0.00 ",
-        "amountConverted": "11643.30 ",
+        "amountConverted": "11639.50 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "Xoom",
         "imageName": "xoom.svg",
-        "rate": "1.15985",
+        "rate": "1.16110",
         "transferFee": "0.00 ",
-        "amountConverted": "11598.50 ",
+        "amountConverted": "11611.00 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "Western Union",
         "imageName": "western-union.svg",
-        "rate": "1.15644",
+        "rate": "1.15690",
         "transferFee": "0.00 ",
-        "amountConverted": "11564.40 ",
+        "amountConverted": "11569.00 ",
+        "isFxellence": "false",
+        "updatedAt": ""
+    },
+    {
+        "name": "MoneyGram",
+        "imageName": "moneygram.svg",
+        "rate": "1.15178",
+        "transferFee": "0.00 ",
+        "amountConverted": "11517.80 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "Nationwide",
         "imageName": "nationwide.svg",
-        "rate": "1.15171",
+        "rate": "1.14892",
         "transferFee": "0.00 ",
-        "amountConverted": "11517.10 ",
+        "amountConverted": "11489.20 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "NatWest",
         "imageName": "natwest.svg",
-        "rate": "1.14933",
-        "transferFee": "0.00 ",
-        "amountConverted": "11493.30 ",
-        "isFxellence": "false",
-        "updatedAt": ""
-    },
-    {
-        "name": "RBS",
-        "imageName": "rbs.svg",
         "rate": "1.14934",
         "transferFee": "0.00 ",
         "amountConverted": "11493.40 ",
@@ -63,47 +63,56 @@
         "updatedAt": ""
     },
     {
+        "name": "RBS",
+        "imageName": "rbs.svg",
+        "rate": "1.14943",
+        "transferFee": "0.00 ",
+        "amountConverted": "11494.30 ",
+        "isFxellence": "false",
+        "updatedAt": ""
+    },
+    {
         "name": "Barclays",
         "imageName": "barclays.svg",
-        "rate": "1.14408",
+        "rate": "1.14372",
         "transferFee": "0.00 ",
-        "amountConverted": "11440.80 ",
+        "amountConverted": "11437.20 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "Lloyds Bank",
         "imageName": "lloyds.svg",
-        "rate": "1.14426",
+        "rate": "1.14344",
         "transferFee": "0.00 ",
-        "amountConverted": "11442.60 ",
+        "amountConverted": "11434.40 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "Skrill",
         "imageName": "skrill.svg",
-        "rate": "1.14283",
+        "rate": "1.14230",
         "transferFee": "0.00 ",
-        "amountConverted": "11428.30 ",
+        "amountConverted": "11423.00 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "Halifax",
         "imageName": "halifax.svg",
-        "rate": "1.13471",
+        "rate": "1.13419",
         "transferFee": "0.00 ",
-        "amountConverted": "11347.10 ",
+        "amountConverted": "11341.90 ",
         "isFxellence": "false",
         "updatedAt": ""
     },
     {
         "name": "PayPal",
         "imageName": "paypal.svg",
-        "rate": "1.12213",
+        "rate": "1.12697",
         "transferFee": "0.00 ",
-        "amountConverted": "11221.30 ",
+        "amountConverted": "11269.70 ",
         "isFxellence": "false",
         "updatedAt": ""
     }
